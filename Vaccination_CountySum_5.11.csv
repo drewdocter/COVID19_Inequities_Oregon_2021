@@ -1,0 +1,397 @@
+﻿County,Demographic Type,Demographic Category,Population Denominator,Vaccinated,In Progress,Series Complete,% Population Vaccinated,% Population In Progress,% Population Series Complete,Population (PSU)  
+Baker,Countywide,Countywide,Total Population,"5,770",835,"4,935",0.34,0.05,0.29,"16,910"
+Baker,Age Groups,16 to 19,Total Population,87,57,30,0.14,0.09,0.05,643
+Baker,Age Groups,20 to 29,Total Population,262,67,195,0.20,0.05,0.15,"1,301"
+Baker,Age Groups,30 to 39,Total Population,478,131,347,0.25,0.07,0.18,"1,947"
+Baker,Age Groups,40 to 49,Total Population,543,126,417,0.33,0.08,0.25,"1,644"
+Baker,Age Groups,50 to 59,Total Population,819,157,662,0.36,0.07,0.29,"2,289"
+Baker,Age Groups,60 to 64,Total Population,663,109,554,0.43,0.07,0.36,"1,527"
+Baker,Age Groups,65 to 69,Total Population,833,58,775,0.54,0.04,0.50,"1,556"
+Baker,Age Groups,70 to 74,Total Population,826,48,778,0.65,0.04,0.61,"1,271"
+Baker,Age Groups,75 to 79,Total Population,529,32,497,0.58,0.04,0.54,921
+Baker,Age Groups,80+,Total Population,730,50,680,0.66,0.05,0.62,"1,106"
+Benton,Countywide,Countywide,Total Population,"53,714","12,269","41,445",0.57,0.13,0.44,"94,665"
+Benton,Age Groups,16 to 19,Total Population,"2,909","1,538","1,371",0.37,0.20,0.17,"7,873"
+Benton,Age Groups,20 to 29,Total Population,"12,292","4,839","7,453",0.59,0.23,0.36,"20,717"
+Benton,Age Groups,30 to 39,Total Population,"7,190","1,853","5,337",0.66,0.17,0.49,"10,985"
+Benton,Age Groups,40 to 49,Total Population,"6,490","1,395","5,095",0.67,0.14,0.52,"9,750"
+Benton,Age Groups,50 to 59,Total Population,"6,757","1,276","5,481",0.68,0.13,0.56,"9,878"
+Benton,Age Groups,60 to 64,Total Population,"4,112",641,"3,471",0.77,0.12,0.65,"5,341"
+Benton,Age Groups,65 to 69,Total Population,"4,690",272,"4,418",0.84,0.05,0.79,"5,618"
+Benton,Age Groups,70 to 74,Total Population,"3,969",192,"3,777",0.86,0.04,0.82,"4,635"
+Benton,Age Groups,75 to 79,Total Population,"2,332",115,"2,217",0.74,0.04,0.70,"3,166"
+Benton,Age Groups,80+,Total Population,"2,973",148,"2,825",0.73,0.04,0.70,"4,059"
+Clackamas,Countywide,Countywide,Total Population,"192,359","51,052","141,307",0.45,0.12,0.33,"426,515"
+Clackamas,Age Groups,16 to 19,Total Population,"7,299","4,453","2,846",0.37,0.23,0.15,"19,674"
+Clackamas,Age Groups,20 to 29,Total Population,"18,312","7,605","10,707",0.41,0.17,0.24,"44,782"
+Clackamas,Age Groups,30 to 39,Total Population,"25,655","8,864","16,791",0.46,0.16,0.30,"56,228"
+Clackamas,Age Groups,40 to 49,Total Population,"29,839","9,601","20,238",0.58,0.19,0.40,"51,146"
+Clackamas,Age Groups,50 to 59,Total Population,"31,731","9,885","21,846",0.55,0.17,0.38,"57,733"
+Clackamas,Age Groups,60 to 64,Total Population,"18,021","4,852","13,169",0.49,0.13,0.36,"36,802"
+Clackamas,Age Groups,65 to 69,Total Population,"19,476","1,929","17,547",0.60,0.06,0.54,"32,245"
+Clackamas,Age Groups,70 to 74,Total Population,"17,153","1,439","15,714",0.74,0.06,0.68,"23,267"
+Clackamas,Age Groups,75 to 79,Total Population,"11,300","1,036","10,264",0.85,0.08,0.78,"13,236"
+Clackamas,Age Groups,80+,Total Population,"13,573","1,388","12,185",0.90,0.09,0.81,"15,095"
+Clatsop,Countywide,Countywide,Total Population,"18,067","4,639","13,428",0.46,0.12,0.34,"39,455"
+Clatsop,Age Groups,16 to 19,Total Population,349,247,102,0.19,0.13,0.06,"1,836"
+Clatsop,Age Groups,20 to 29,Total Population,"1,401",651,750,0.35,0.16,0.19,"4,036"
+Clatsop,Age Groups,30 to 39,Total Population,"2,177",797,"1,380",0.46,0.17,0.29,"4,766"
+Clatsop,Age Groups,40 to 49,Total Population,"2,356",806,"1,550",0.47,0.16,0.31,"5,028"
+Clatsop,Age Groups,50 to 59,Total Population,"2,705",885,"1,820",0.52,0.17,0.35,"5,220"
+Clatsop,Age Groups,60 to 64,Total Population,"1,891",501,"1,390",0.70,0.19,0.52,"2,697"
+Clatsop,Age Groups,65 to 69,Total Population,"2,366",305,"2,061",0.79,0.10,0.69,"3,003"
+Clatsop,Age Groups,70 to 74,Total Population,"2,151",217,"1,934",0.87,0.09,0.78,"2,473"
+Clatsop,Age Groups,75 to 79,Total Population,"1,254",107,"1,147",0.76,0.07,0.70,"1,647"
+Clatsop,Age Groups,80+,Total Population,"1,417",123,"1,294",0.69,0.06,0.63,"2,066"
+Columbia,Countywide,Countywide,Total Population,"18,416","5,158","13,258",0.35,0.10,0.25,"53,280"
+Columbia,Age Groups,16 to 19,Total Population,499,354,145,0.21,0.15,0.06,"2,387"
+Columbia,Age Groups,20 to 29,Total Population,"1,462",662,800,0.33,0.15,0.18,"4,380"
+Columbia,Age Groups,30 to 39,Total Population,"2,007",834,"1,173",0.28,0.12,0.16,"7,232"
+Columbia,Age Groups,40 to 49,Total Population,"2,448",925,"1,523",0.35,0.13,0.22,"7,007"
+Columbia,Age Groups,50 to 59,Total Population,"3,232","1,129","2,103",0.40,0.14,0.26,"8,040"
+Columbia,Age Groups,60 to 64,Total Population,"2,068",618,"1,450",0.48,0.14,0.34,"4,295"
+Columbia,Age Groups,65 to 69,Total Population,"2,175",247,"1,928",0.59,0.07,0.52,"3,714"
+Columbia,Age Groups,70 to 74,Total Population,"1,903",176,"1,727",0.65,0.06,0.59,"2,920"
+Columbia,Age Groups,75 to 79,Total Population,"1,213",98,"1,115",0.64,0.05,0.59,"1,906"
+Columbia,Age Groups,80+,Total Population,"1,409",115,"1,294",0.67,0.06,0.62,"2,106"
+Coos,Countywide,Countywide,Total Population,"26,313","5,554","20,759",0.42,0.09,0.33,"63,315"
+Coos,Age Groups,16 to 19,Total Population,501,169,332,0.19,0.06,0.12,"2,670"
+Coos,Age Groups,20 to 29,Total Population,"1,563",516,"1,047",0.28,0.09,0.18,"5,680"
+Coos,Age Groups,30 to 39,Total Population,"2,255",623,"1,632",0.33,0.09,0.24,"6,788"
+Coos,Age Groups,40 to 49,Total Population,"2,688",633,"2,055",0.40,0.09,0.30,"6,782"
+Coos,Age Groups,50 to 59,Total Population,"3,898",922,"2,976",0.46,0.11,0.35,"8,568"
+Coos,Age Groups,60 to 64,Total Population,"3,022",676,"2,346",0.59,0.13,0.46,"5,115"
+Coos,Age Groups,65 to 69,Total Population,"3,747",577,"3,170",0.70,0.11,0.59,"5,371"
+Coos,Age Groups,70 to 74,Total Population,"3,443",573,"2,870",0.76,0.13,0.63,"4,557"
+Coos,Age Groups,75 to 79,Total Population,"2,297",339,"1,958",0.68,0.10,0.58,"3,364"
+Coos,Age Groups,80+,Total Population,"2,899",526,"2,373",0.72,0.13,0.59,"4,034"
+Crook,Countywide,Countywide,Total Population,"8,305","1,637","6,668",0.35,0.07,0.28,"23,440"
+Crook,Age Groups,16 to 19,Total Population,163,120,43,0.19,0.14,0.05,871
+Crook,Age Groups,20 to 29,Total Population,411,173,238,0.22,0.09,0.12,"1,912"
+Crook,Age Groups,30 to 39,Total Population,585,185,400,0.24,0.08,0.17,"2,393"
+Crook,Age Groups,40 to 49,Total Population,767,258,509,0.29,0.10,0.19,"2,668"
+Crook,Age Groups,50 to 59,Total Population,"1,151",350,801,0.35,0.11,0.25,"3,259"
+Crook,Age Groups,60 to 64,Total Population,929,240,689,0.47,0.12,0.35,"1,978"
+Crook,Age Groups,65 to 69,Total Population,"1,264",103,"1,161",0.57,0.05,0.53,"2,205"
+Crook,Age Groups,70 to 74,Total Population,"1,249",96,"1,153",0.69,0.05,0.64,"1,807"
+Crook,Age Groups,75 to 79,Total Population,869,58,811,0.67,0.05,0.63,"1,297"
+Crook,Age Groups,80+,Total Population,917,54,863,0.62,0.04,0.58,"1,487"
+Curry,Countywide,Countywide,Total Population,"9,506","2,239","7,267",0.41,0.10,0.32,"23,005"
+Curry,Age Groups,16 to 19,Total Population,100,51,49,0.14,0.07,0.07,708
+Curry,Age Groups,20 to 29,Total Population,336,123,213,0.23,0.08,0.14,"1,492"
+Curry,Age Groups,30 to 39,Total Population,554,190,364,0.28,0.10,0.18,"1,997"
+Curry,Age Groups,40 to 49,Total Population,628,206,422,0.26,0.09,0.18,"2,386"
+Curry,Age Groups,50 to 59,Total Population,"1,258",434,824,0.37,0.13,0.24,"3,373"
+Curry,Age Groups,60 to 64,Total Population,"1,185",375,810,0.50,0.16,0.34,"2,358"
+Curry,Age Groups,65 to 69,Total Population,"1,619",264,"1,355",0.61,0.10,0.51,"2,668"
+Curry,Age Groups,70 to 74,Total Population,"1,570",243,"1,327",0.72,0.11,0.61,"2,193"
+Curry,Age Groups,75 to 79,Total Population,"1,015",155,860,0.68,0.10,0.57,"1,504"
+Curry,Age Groups,80+,Total Population,"1,241",198,"1,043",0.73,0.12,0.61,"1,708"
+Deschutes,Countywide,Countywide,Total Population,"97,939","19,521","78,418",0.50,0.10,0.40,"197,015"
+Deschutes,Age Groups,16 to 19,Total Population,"3,466","1,919","1,547",0.39,0.22,0.18,"8,828"
+Deschutes,Age Groups,20 to 29,Total Population,"9,038","3,070","5,968",0.43,0.15,0.28,"21,233"
+Deschutes,Age Groups,30 to 39,Total Population,"13,469","3,681","9,788",0.51,0.14,0.37,"26,283"
+Deschutes,Age Groups,40 to 49,Total Population,"14,186","3,546","10,640",0.54,0.14,0.40,"26,351"
+Deschutes,Age Groups,50 to 59,Total Population,"14,712","3,328","11,384",0.58,0.13,0.45,"25,301"
+Deschutes,Age Groups,60 to 64,Total Population,"9,166","1,877","7,289",0.70,0.14,0.56,"13,041"
+Deschutes,Age Groups,65 to 69,Total Population,"10,756",716,"10,040",0.82,0.06,0.77,"13,096"
+Deschutes,Age Groups,70 to 74,Total Population,"9,722",723,"8,999",0.96,0.07,0.89,"10,098"
+Deschutes,Age Groups,75 to 79,Total Population,"6,513",287,"6,226",0.95,0.04,0.91,"6,857"
+Deschutes,Age Groups,80+,Total Population,"6,911",374,"6,537",0.80,0.04,0.76,"8,638"
+Douglas,Countywide,Countywide,Total Population,"35,003","6,135","28,868",0.31,0.06,0.26,"112,530"
+Douglas,Age Groups,16 to 19,Total Population,630,346,284,0.13,0.07,0.06,"4,828"
+Douglas,Age Groups,20 to 29,Total Population,"2,025",668,"1,357",0.20,0.07,0.13,"10,147"
+Douglas,Age Groups,30 to 39,Total Population,"2,686",756,"1,930",0.23,0.06,0.16,"11,832"
+Douglas,Age Groups,40 to 49,Total Population,"3,210",821,"2,389",0.26,0.07,0.19,"12,510"
+Douglas,Age Groups,50 to 59,Total Population,"5,063","1,255","3,808",0.33,0.08,0.25,"15,159"
+Douglas,Age Groups,60 to 64,Total Population,"3,928",836,"3,092",0.44,0.09,0.35,"8,960"
+Douglas,Age Groups,65 to 69,Total Population,"5,120",540,"4,580",0.55,0.06,0.49,"9,331"
+Douglas,Age Groups,70 to 74,Total Population,"4,749",416,"4,333",0.59,0.05,0.54,"8,093"
+Douglas,Age Groups,75 to 79,Total Population,"3,377",222,"3,155",0.56,0.04,0.52,"6,044"
+Douglas,Age Groups,80+,Total Population,"4,215",275,"3,940",0.53,0.04,0.50,"7,951"
+Gilliam,Countywide,Countywide,Total Population,600,107,493,0.30,0.05,0.25,"1,990"
+Gilliam,Age Groups,16 to 19,Total Population,5,1,4,0.08,0.02,0.07,60
+Gilliam,Age Groups,20 to 29,Total Population,35,9,26,0.32,0.08,0.24,111
+Gilliam,Age Groups,30 to 39,Total Population,48,12,36,0.25,0.06,0.19,193
+Gilliam,Age Groups,40 to 49,Total Population,55,13,42,0.28,0.07,0.21,199
+Gilliam,Age Groups,50 to 59,Total Population,76,11,65,0.24,0.04,0.21,311
+Gilliam,Age Groups,60 to 64,Total Population,81,11,70,0.37,0.05,0.32,217
+Gilliam,Age Groups,65 to 69,Total Population,97,13,84,0.47,0.06,0.41,206
+Gilliam,Age Groups,70 to 74,Total Population,78,13,65,0.51,0.09,0.43,153
+Gilliam,Age Groups,75 to 79,Total Population,48,7,41,0.47,0.07,0.40,102
+Gilliam,Age Groups,80+,Total Population,77,17,60,0.52,0.12,0.41,148
+Grant,Countywide,Countywide,Total Population,"2,446",331,"2,115",0.33,0.05,0.29,"7,315"
+Grant,Age Groups,16 to 19,Total Population,36,23,13,0.17,0.11,0.06,217
+Grant,Age Groups,20 to 29,Total Population,151,43,108,0.34,0.10,0.24,450
+Grant,Age Groups,30 to 39,Total Population,231,43,188,0.32,0.06,0.26,717
+Grant,Age Groups,40 to 49,Total Population,222,35,187,0.32,0.05,0.27,697
+Grant,Age Groups,50 to 59,Total Population,317,45,272,0.32,0.05,0.28,981
+Grant,Age Groups,60 to 64,Total Population,273,39,234,0.37,0.05,0.32,730
+Grant,Age Groups,65 to 69,Total Population,358,40,318,0.44,0.05,0.39,812
+Grant,Age Groups,70 to 74,Total Population,338,23,315,0.51,0.04,0.48,659
+Grant,Age Groups,75 to 79,Total Population,250,19,231,0.49,0.04,0.45,511
+Grant,Age Groups,80+,Total Population,270,21,249,0.43,0.03,0.39,632
+Harney,Countywide,Countywide,Total Population,"2,243",209,"2,034",0.31,0.03,0.28,"7,280"
+Harney,Age Groups,16 to 19,Total Population,38,14,24,0.12,0.04,0.08,320
+Harney,Age Groups,20 to 29,Total Population,149,36,113,0.25,0.06,0.19,602
+Harney,Age Groups,30 to 39,Total Population,228,33,195,0.27,0.04,0.23,834
+Harney,Age Groups,40 to 49,Total Population,230,35,195,0.29,0.04,0.25,792
+Harney,Age Groups,50 to 59,Total Population,345,31,314,0.35,0.03,0.32,977
+Harney,Age Groups,60 to 64,Total Population,230,26,204,0.37,0.04,0.33,615
+Harney,Age Groups,65 to 69,Total Population,328,11,317,0.52,0.02,0.50,633
+Harney,Age Groups,70 to 74,Total Population,244,7,237,0.50,0.01,0.49,485
+Harney,Age Groups,75 to 79,Total Population,202,7,195,0.56,0.02,0.54,361
+Harney,Age Groups,80+,Total Population,249,9,240,0.56,0.02,0.54,445
+Hood River,Countywide,Countywide,Total Population,"13,413","2,759","10,654",0.52,0.11,0.42,"25,640"
+Hood River,Age Groups,16 to 19,Total Population,741,520,221,0.53,0.37,0.16,"1,390"
+Hood River,Age Groups,20 to 29,Total Population,"1,515",481,"1,034",0.52,0.17,0.36,"2,916"
+Hood River,Age Groups,30 to 39,Total Population,"2,054",467,"1,587",0.62,0.14,0.48,"3,299"
+Hood River,Age Groups,40 to 49,Total Population,"2,229",467,"1,762",0.64,0.13,0.50,"3,498"
+Hood River,Age Groups,50 to 59,Total Population,"2,371",412,"1,959",0.66,0.12,0.55,"3,589"
+Hood River,Age Groups,60 to 64,Total Population,"1,235",202,"1,033",0.71,0.12,0.59,"1,748"
+Hood River,Age Groups,65 to 69,Total Population,"1,121",75,"1,046",0.77,0.05,0.71,"1,465"
+Hood River,Age Groups,70 to 74,Total Population,801,43,758,0.80,0.04,0.76,996
+Hood River,Age Groups,75 to 79,Total Population,563,29,534,0.81,0.04,0.77,695
+Hood River,Age Groups,80+,Total Population,783,63,720,0.79,0.06,0.73,993
+Jackson,Countywide,Countywide,Total Population,"84,767","22,494","62,273",0.38,0.10,0.28,"223,240"
+Jackson,Age Groups,16 to 19,Total Population,"2,374","1,566",808,0.23,0.15,0.08,"10,261"
+Jackson,Age Groups,20 to 29,Total Population,"7,448","3,280","4,168",0.31,0.14,0.17,"24,134"
+Jackson,Age Groups,30 to 39,Total Population,"9,470","3,453","6,017",0.37,0.13,0.23,"25,725"
+Jackson,Age Groups,40 to 49,Total Population,"10,178","3,381","6,797",0.38,0.13,0.25,"26,947"
+Jackson,Age Groups,50 to 59,Total Population,"12,185","3,858","8,327",0.42,0.13,0.29,"29,028"
+Jackson,Age Groups,60 to 64,Total Population,"8,408","2,601","5,807",0.53,0.16,0.37,"15,852"
+Jackson,Age Groups,65 to 69,Total Population,"10,254","1,533","8,721",0.64,0.10,0.54,"16,052"
+Jackson,Age Groups,70 to 74,Total Population,"9,484","1,123","8,361",0.72,0.09,0.64,"13,162"
+Jackson,Age Groups,75 to 79,Total Population,"6,668",770,"5,898",0.69,0.08,0.61,"9,708"
+Jackson,Age Groups,80+,Total Population,"8,298",929,"7,369",0.61,0.07,0.54,"13,711"
+Jefferson,Countywide,Countywide,Total Population,"9,043","1,754","7,289",0.38,0.07,0.30,"24,105"
+Jefferson,Age Groups,16 to 19,Total Population,268,110,158,0.24,0.10,0.14,"1,117"
+Jefferson,Age Groups,20 to 29,Total Population,765,232,533,0.30,0.09,0.21,"2,555"
+Jefferson,Age Groups,30 to 39,Total Population,"1,024",288,736,0.37,0.10,0.26,"2,800"
+Jefferson,Age Groups,40 to 49,Total Population,"1,035",277,758,0.34,0.09,0.25,"3,042"
+Jefferson,Age Groups,50 to 59,Total Population,"1,529",368,"1,161",0.45,0.11,0.34,"3,391"
+Jefferson,Age Groups,60 to 64,Total Population,956,225,731,0.53,0.12,0.40,"1,812"
+Jefferson,Age Groups,65 to 69,Total Population,"1,047",92,955,0.61,0.05,0.56,"1,705"
+Jefferson,Age Groups,70 to 74,Total Population,992,63,929,0.73,0.05,0.68,"1,368"
+Jefferson,Age Groups,75 to 79,Total Population,674,44,630,0.77,0.05,0.72,876
+Jefferson,Age Groups,80+,Total Population,753,55,698,0.78,0.06,0.72,965
+Josephine,Countywide,Countywide,Total Population,"29,493","4,994","24,499",0.34,0.06,0.28,"86,560"
+Josephine,Age Groups,16 to 19,Total Population,636,293,343,0.18,0.08,0.10,"3,604"
+Josephine,Age Groups,20 to 29,Total Population,"1,676",551,"1,125",0.23,0.07,0.15,"7,405"
+Josephine,Age Groups,30 to 39,Total Population,"2,349",666,"1,683",0.26,0.07,0.19,"9,059"
+Josephine,Age Groups,40 to 49,Total Population,"2,797",651,"2,146",0.29,0.07,0.22,"9,635"
+Josephine,Age Groups,50 to 59,Total Population,"4,118",894,"3,224",0.36,0.08,0.28,"11,508"
+Josephine,Age Groups,60 to 64,Total Population,"3,232",622,"2,610",0.45,0.09,0.37,"7,141"
+Josephine,Age Groups,65 to 69,Total Population,"4,007",381,"3,626",0.55,0.05,0.50,"7,299"
+Josephine,Age Groups,70 to 74,Total Population,"4,038",330,"3,708",0.64,0.05,0.58,"6,356"
+Josephine,Age Groups,75 to 79,Total Population,"2,945",230,"2,715",0.63,0.05,0.58,"4,698"
+Josephine,Age Groups,80+,Total Population,"3,695",376,"3,319",0.59,0.06,0.53,"6,221"
+Klamath,Countywide,Countywide,Total Population,"22,372","3,858","18,514",0.33,0.06,0.27,"68,075"
+Klamath,Age Groups,16 to 19,Total Population,559,315,244,0.17,0.10,0.08,"3,233"
+Klamath,Age Groups,20 to 29,Total Population,"1,744",578,"1,166",0.23,0.08,0.16,"7,478"
+Klamath,Age Groups,30 to 39,Total Population,"2,186",512,"1,674",0.29,0.07,0.22,"7,677"
+Klamath,Age Groups,40 to 49,Total Population,"2,384",457,"1,927",0.30,0.06,0.24,"8,022"
+Klamath,Age Groups,50 to 59,Total Population,"3,373",720,"2,653",0.37,0.08,0.29,"9,074"
+Klamath,Age Groups,60 to 64,Total Population,"2,428",488,"1,940",0.49,0.10,0.39,"4,999"
+Klamath,Age Groups,65 to 69,Total Population,"3,106",278,"2,828",0.60,0.05,0.55,"5,152"
+Klamath,Age Groups,70 to 74,Total Population,"2,695",204,"2,491",0.63,0.05,0.58,"4,267"
+Klamath,Age Groups,75 to 79,Total Population,"1,794",141,"1,653",0.59,0.05,0.54,"3,055"
+Klamath,Age Groups,80+,Total Population,"2,103",165,"1,938",0.60,0.05,0.55,"3,500"
+Lake,Countywide,Countywide,Total Population,"2,164",210,"1,954",0.27,0.03,0.24,"8,075"
+Lake,Age Groups,16 to 19,Total Population,14,7,7,0.05,0.03,0.03,276
+Lake,Age Groups,20 to 29,Total Population,84,19,65,0.15,0.03,0.11,573
+Lake,Age Groups,30 to 39,Total Population,150,18,132,0.16,0.02,0.14,925
+Lake,Age Groups,40 to 49,Total Population,192,23,169,0.17,0.02,0.15,"1,120"
+Lake,Age Groups,50 to 59,Total Population,303,27,276,0.24,0.02,0.22,"1,252"
+Lake,Age Groups,60 to 64,Total Population,257,25,232,0.37,0.04,0.33,704
+Lake,Age Groups,65 to 69,Total Population,367,35,332,0.50,0.05,0.45,733
+Lake,Age Groups,70 to 74,Total Population,298,19,279,0.53,0.03,0.50,564
+Lake,Age Groups,75 to 79,Total Population,230,15,215,0.54,0.04,0.50,427
+Lake,Age Groups,80+,Total Population,269,22,247,0.60,0.05,0.55,451
+Lane,Countywide,Countywide,Total Population,"186,611","43,125","143,486",0.49,0.11,0.38,"381,365"
+Lane,Age Groups,16 to 19,Total Population,"7,405","3,870","3,535",0.37,0.19,0.17,"20,304"
+Lane,Age Groups,20 to 29,Total Population,"24,825","9,584","15,241",0.43,0.16,0.26,"58,330"
+Lane,Age Groups,30 to 39,Total Population,"24,513","7,491","17,022",0.51,0.16,0.35,"48,248"
+Lane,Age Groups,40 to 49,Total Population,"24,373","6,545","17,828",0.56,0.15,0.41,"43,227"
+Lane,Age Groups,50 to 59,Total Population,"26,474","6,834","19,640",0.57,0.15,0.42,"46,769"
+Lane,Age Groups,60 to 64,Total Population,"16,675","3,796","12,879",0.64,0.15,0.49,"26,081"
+Lane,Age Groups,65 to 69,Total Population,"19,855","1,855","18,000",0.74,0.07,0.67,"26,813"
+Lane,Age Groups,70 to 74,Total Population,"17,820","1,339","16,481",0.83,0.06,0.77,"21,531"
+Lane,Age Groups,75 to 79,Total Population,"11,156",802,"10,354",0.80,0.06,0.74,"13,908"
+Lane,Age Groups,80+,Total Population,"13,515","1,009","12,506",0.74,0.06,0.68,"18,332"
+Lincoln,Countywide,Countywide,Total Population,"26,097","4,650","21,447",0.54,0.10,0.44,"48,305"
+Lincoln,Age Groups,16 to 19,Total Population,647,379,268,0.35,0.21,0.15,"1,833"
+Lincoln,Age Groups,20 to 29,Total Population,"1,622",556,"1,066",0.40,0.14,0.27,"4,030"
+Lincoln,Age Groups,30 to 39,Total Population,"2,442",667,"1,775",0.48,0.13,0.35,"5,076"
+Lincoln,Age Groups,40 to 49,Total Population,"2,741",709,"2,032",0.53,0.14,0.39,"5,215"
+Lincoln,Age Groups,50 to 59,Total Population,"3,919",842,"3,077",0.61,0.13,0.48,"6,455"
+Lincoln,Age Groups,60 to 64,Total Population,"3,056",564,"2,492",0.70,0.13,0.57,"4,380"
+Lincoln,Age Groups,65 to 69,Total Population,"3,935",296,"3,639",0.82,0.06,0.76,"4,778"
+Lincoln,Age Groups,70 to 74,Total Population,"3,470",264,"3,206",0.84,0.06,0.77,"4,151"
+Lincoln,Age Groups,75 to 79,Total Population,"2,153",182,"1,971",0.77,0.07,0.71,"2,788"
+Lincoln,Age Groups,80+,Total Population,"2,112",191,"1,921",0.73,0.07,0.66,"2,915"
+Linn,Countywide,Countywide,Total Population,"47,112","10,658","36,454",0.37,0.08,0.29,"127,320"
+Linn,Age Groups,16 to 19,Total Population,"1,382",841,541,0.22,0.14,0.09,"6,188"
+Linn,Age Groups,20 to 29,Total Population,"4,590","1,648","2,942",0.31,0.11,0.20,"14,879"
+Linn,Age Groups,30 to 39,Total Population,"5,759","1,713","4,046",0.35,0.11,0.25,"16,281"
+Linn,Age Groups,40 to 49,Total Population,"5,816","1,710","4,106",0.37,0.11,0.26,"15,631"
+Linn,Age Groups,50 to 59,Total Population,"7,243","1,904","5,339",0.45,0.12,0.34,"15,939"
+Linn,Age Groups,60 to 64,Total Population,"4,703","1,086","3,617",0.56,0.13,0.43,"8,357"
+Linn,Age Groups,65 to 69,Total Population,"5,372",589,"4,783",0.70,0.08,0.62,"7,709"
+Linn,Age Groups,70 to 74,Total Population,"4,806",465,"4,341",0.72,0.07,0.65,"6,692"
+Linn,Age Groups,75 to 79,Total Population,"3,223",263,"2,960",0.67,0.06,0.62,"4,807"
+Linn,Age Groups,80+,Total Population,"4,218",439,"3,779",0.72,0.08,0.64,"5,871"
+Malheur,Countywide,Countywide,Total Population,"8,175","1,139","7,036",0.26,0.04,0.22,"32,105"
+Malheur,Age Groups,16 to 19,Total Population,206,103,103,0.12,0.06,0.06,"1,697"
+Malheur,Age Groups,20 to 29,Total Population,616,167,449,0.15,0.04,0.11,"4,244"
+Malheur,Age Groups,30 to 39,Total Population,756,192,564,0.19,0.05,0.14,"3,972"
+Malheur,Age Groups,40 to 49,Total Population,"1,088",174,914,0.29,0.05,0.24,"3,814"
+Malheur,Age Groups,50 to 59,Total Population,"1,280",194,"1,086",0.34,0.05,0.29,"3,733"
+Malheur,Age Groups,60 to 64,Total Population,922,103,819,0.48,0.05,0.43,"1,924"
+Malheur,Age Groups,65 to 69,Total Population,"1,012",66,946,0.53,0.03,0.49,"1,914"
+Malheur,Age Groups,70 to 74,Total Population,791,51,740,0.51,0.03,0.48,"1,559"
+Malheur,Age Groups,75 to 79,Total Population,658,38,620,0.59,0.03,0.56,"1,116"
+Malheur,Age Groups,80+,Total Population,846,51,795,0.58,0.04,0.54,"1,465"
+Marion,Countywide,Countywide,Total Population,"136,953","33,219","103,734",0.39,0.10,0.30,"349,120"
+Marion,Age Groups,16 to 19,Total Population,"4,729","2,622","2,107",0.25,0.14,0.11,"19,296"
+Marion,Age Groups,20 to 29,Total Population,"15,576","5,795","9,781",0.33,0.12,0.21,"46,669"
+Marion,Age Groups,30 to 39,Total Population,"18,807","5,900","12,907",0.42,0.13,0.29,"45,023"
+Marion,Age Groups,40 to 49,Total Population,"20,109","6,138","13,971",0.47,0.14,0.32,"43,173"
+Marion,Age Groups,50 to 59,Total Population,"21,786","5,884","15,902",0.53,0.14,0.39,"40,932"
+Marion,Age Groups,60 to 64,Total Population,"12,666","2,914","9,752",0.63,0.15,0.49,"20,026"
+Marion,Age Groups,65 to 69,Total Population,"13,491","1,411","12,080",0.77,0.08,0.69,"17,433"
+Marion,Age Groups,70 to 74,Total Population,"11,715",978,"10,737",0.78,0.07,0.72,"14,990"
+Marion,Age Groups,75 to 79,Total Population,"7,950",661,"7,289",0.71,0.06,0.65,"11,247"
+Marion,Age Groups,80+,Total Population,"10,124",916,"9,208",0.72,0.07,0.65,"14,070"
+Morrow,Countywide,Countywide,Total Population,"3,833",446,"3,387",0.30,0.04,0.26,"12,825"
+Morrow,Age Groups,16 to 19,Total Population,111,43,68,0.16,0.06,0.10,702
+Morrow,Age Groups,20 to 29,Total Population,385,73,312,0.24,0.05,0.20,"1,577"
+Morrow,Age Groups,30 to 39,Total Population,428,68,360,0.27,0.04,0.23,"1,570"
+Morrow,Age Groups,40 to 49,Total Population,619,74,545,0.39,0.05,0.34,"1,604"
+Morrow,Age Groups,50 to 59,Total Population,630,74,556,0.42,0.05,0.37,"1,519"
+Morrow,Age Groups,60 to 64,Total Population,462,45,417,0.51,0.05,0.46,901
+Morrow,Age Groups,65 to 69,Total Population,401,29,372,0.50,0.04,0.47,800
+Morrow,Age Groups,70 to 74,Total Population,315,17,298,0.51,0.03,0.49,614
+Morrow,Age Groups,75 to 79,Total Population,210,10,200,0.52,0.03,0.50,402
+Morrow,Age Groups,80+,Total Population,272,13,259,0.61,0.03,0.58,448
+Multnomah,Countywide,Countywide,Total Population,"433,542","128,406","305,136",0.52,0.16,0.37,"829,560"
+Multnomah,Age Groups,16 to 19,Total Population,"14,382","8,864","5,518",0.40,0.25,0.15,"35,858"
+Multnomah,Age Groups,20 to 29,Total Population,"62,618","25,496","37,122",0.49,0.20,0.29,"129,218"
+Multnomah,Age Groups,30 to 39,Total Population,"92,389","32,139","60,250",0.60,0.21,0.39,"153,530"
+Multnomah,Age Groups,40 to 49,Total Population,"78,306","25,388","52,918",0.66,0.21,0.45,"118,559"
+Multnomah,Age Groups,50 to 59,Total Population,"64,291","19,798","44,493",0.66,0.20,0.46,"97,373"
+Multnomah,Age Groups,60 to 64,Total Population,"29,710","8,324","21,386",0.66,0.18,0.47,"45,327"
+Multnomah,Age Groups,65 to 69,Total Population,"31,584","3,171","28,413",0.78,0.08,0.70,"40,688"
+Multnomah,Age Groups,70 to 74,Total Population,"26,341","2,247","24,094",0.86,0.07,0.78,"30,795"
+Multnomah,Age Groups,75 to 79,Total Population,"15,717","1,330","14,387",0.84,0.07,0.77,"18,730"
+Multnomah,Age Groups,80+,Total Population,"18,204","1,649","16,555",0.80,0.07,0.72,"22,886"
+Polk,Countywide,Countywide,Total Population,"37,277","8,160","29,117",0.45,0.10,0.35,"83,805"
+Polk,Age Groups,16 to 19,Total Population,"1,457",860,597,0.28,0.17,0.12,"5,172"
+Polk,Age Groups,20 to 29,Total Population,"4,461","1,690","2,771",0.40,0.15,0.25,"11,031"
+Polk,Age Groups,30 to 39,Total Population,"4,658","1,322","3,336",0.47,0.13,0.34,"9,846"
+Polk,Age Groups,40 to 49,Total Population,"5,036","1,295","3,741",0.49,0.13,0.37,"10,208"
+Polk,Age Groups,50 to 59,Total Population,"5,621","1,349","4,272",0.58,0.14,0.44,"9,619"
+Polk,Age Groups,60 to 64,Total Population,"3,261",690,"2,571",0.69,0.15,0.54,"4,751"
+Polk,Age Groups,65 to 69,Total Population,"3,789",312,"3,477",0.81,0.07,0.74,"4,686"
+Polk,Age Groups,70 to 74,Total Population,"3,440",230,"3,210",0.84,0.06,0.78,"4,118"
+Polk,Age Groups,75 to 79,Total Population,"2,517",193,"2,324",0.80,0.06,0.74,"3,151"
+Polk,Age Groups,80+,Total Population,"3,037",219,"2,818",0.80,0.06,0.74,"3,787"
+Sherman,Countywide,Countywide,Total Population,689,136,553,0.38,0.08,0.31,"1,795"
+Sherman,Age Groups,16 to 19,Total Population,6,4,2,0.11,0.07,0.04,55
+Sherman,Age Groups,20 to 29,Total Population,33,10,23,0.30,0.09,0.21,112
+Sherman,Age Groups,30 to 39,Total Population,63,23,40,0.25,0.09,0.16,253
+Sherman,Age Groups,40 to 49,Total Population,77,21,56,0.43,0.12,0.31,180
+Sherman,Age Groups,50 to 59,Total Population,102,26,76,0.43,0.11,0.32,236
+Sherman,Age Groups,60 to 64,Total Population,95,13,82,0.56,0.08,0.49,168
+Sherman,Age Groups,65 to 69,Total Population,101,16,85,0.68,0.11,0.57,149
+Sherman,Age Groups,70 to 74,Total Population,85,11,74,0.62,0.08,0.54,136
+Sherman,Age Groups,75 to 79,Total Population,47,6,41,0.46,0.06,0.40,103
+Sherman,Age Groups,80+,Total Population,80,6,74,0.76,0.06,0.70,106
+Tillamook,Countywide,Countywide,Total Population,"12,635","3,313","9,322",0.48,0.13,0.35,"26,530"
+Tillamook,Age Groups,16 to 19,Total Population,265,186,79,0.24,0.17,0.07,"1,105"
+Tillamook,Age Groups,20 to 29,Total Population,782,377,405,0.38,0.18,0.20,"2,066"
+Tillamook,Age Groups,30 to 39,Total Population,"1,177",496,681,0.41,0.17,0.24,"2,845"
+Tillamook,Age Groups,40 to 49,Total Population,"1,340",528,812,0.46,0.18,0.28,"2,918"
+Tillamook,Age Groups,50 to 59,Total Population,"1,881",738,"1,143",0.53,0.21,0.32,"3,532"
+Tillamook,Age Groups,60 to 64,Total Population,"1,512",495,"1,017",0.63,0.21,0.42,"2,415"
+Tillamook,Age Groups,65 to 69,Total Population,"1,774",180,"1,594",0.72,0.07,0.65,"2,453"
+Tillamook,Age Groups,70 to 74,Total Population,"1,650",128,"1,522",0.86,0.07,0.79,"1,930"
+Tillamook,Age Groups,75 to 79,Total Population,"1,069",94,975,0.85,0.07,0.77,"1,262"
+Tillamook,Age Groups,80+,Total Population,"1,185",91,"1,094",0.82,0.06,0.76,"1,438"
+Umatilla,Countywide,Countywide,Total Population,"20,229","3,069","17,160",0.25,0.04,0.21,"81,495"
+Umatilla,Age Groups,16 to 19,Total Population,469,184,285,0.10,0.04,0.06,"4,512"
+Umatilla,Age Groups,20 to 29,Total Population,"1,906",505,"1,401",0.18,0.05,0.13,"10,555"
+Umatilla,Age Groups,30 to 39,Total Population,"2,148",446,"1,702",0.20,0.04,0.16,"10,587"
+Umatilla,Age Groups,40 to 49,Total Population,"2,848",526,"2,322",0.29,0.05,0.24,"9,790"
+Umatilla,Age Groups,50 to 59,Total Population,"3,409",575,"2,834",0.34,0.06,0.29,"9,902"
+Umatilla,Age Groups,60 to 64,Total Population,"2,126",307,"1,819",0.42,0.06,0.36,"5,027"
+Umatilla,Age Groups,65 to 69,Total Population,"2,299",185,"2,114",0.51,0.04,0.47,"4,545"
+Umatilla,Age Groups,70 to 74,Total Population,"1,923",143,"1,780",0.57,0.04,0.53,"3,377"
+Umatilla,Age Groups,75 to 79,Total Population,"1,320",89,"1,231",0.58,0.04,0.54,"2,273"
+Umatilla,Age Groups,80+,Total Population,"1,781",109,"1,672",0.61,0.04,0.57,"2,921"
+Union,Countywide,Countywide,Total Population,"8,331","1,452","6,879",0.31,0.05,0.26,"26,840"
+Union,Age Groups,16 to 19,Total Population,204,151,53,0.13,0.10,0.03,"1,586"
+Union,Age Groups,20 to 29,Total Population,729,288,441,0.24,0.10,0.15,"3,025"
+Union,Age Groups,30 to 39,Total Population,912,226,686,0.31,0.08,0.23,"2,955"
+Union,Age Groups,40 to 49,Total Population,923,204,719,0.33,0.07,0.26,"2,797"
+Union,Age Groups,50 to 59,Total Population,"1,107",198,909,0.35,0.06,0.29,"3,168"
+Union,Age Groups,60 to 64,Total Population,905,120,785,0.48,0.06,0.41,"1,897"
+Union,Age Groups,65 to 69,Total Population,"1,113",88,"1,025",0.57,0.05,0.52,"1,971"
+Union,Age Groups,70 to 74,Total Population,968,90,878,0.63,0.06,0.57,"1,533"
+Union,Age Groups,75 to 79,Total Population,659,34,625,0.63,0.03,0.60,"1,040"
+Union,Age Groups,80+,Total Population,811,53,758,0.54,0.04,0.51,"1,493"
+Wallowa,Countywide,Countywide,Total Population,"2,992",337,"2,655",0.42,0.05,0.37,"7,160"
+Wallowa,Age Groups,16 to 19,Total Population,40,27,13,0.17,0.11,0.06,238
+Wallowa,Age Groups,20 to 29,Total Population,146,43,103,0.42,0.12,0.29,350
+Wallowa,Age Groups,30 to 39,Total Population,262,43,219,0.34,0.06,0.28,782
+Wallowa,Age Groups,40 to 49,Total Population,295,41,254,0.43,0.06,0.37,679
+Wallowa,Age Groups,50 to 59,Total Population,389,55,334,0.44,0.06,0.38,887
+Wallowa,Age Groups,60 to 64,Total Population,321,44,277,0.48,0.07,0.42,665
+Wallowa,Age Groups,65 to 69,Total Population,490,23,467,0.64,0.03,0.61,764
+Wallowa,Age Groups,70 to 74,Total Population,435,22,413,0.75,0.04,0.72,578
+Wallowa,Age Groups,75 to 79,Total Population,283,14,269,0.72,0.04,0.69,391
+Wallowa,Age Groups,80+,Total Population,331,25,306,0.59,0.04,0.54,566
+Wasco,Countywide,Countywide,Total Population,"11,175","2,649","8,526",0.41,0.10,0.31,"27,295"
+Wasco,Age Groups,16 to 19,Total Population,364,289,75,0.30,0.24,0.06,"1,230"
+Wasco,Age Groups,20 to 29,Total Population,"1,034",398,636,0.36,0.14,0.22,"2,871"
+Wasco,Age Groups,30 to 39,Total Population,"1,449",491,958,0.43,0.15,0.29,"3,352"
+Wasco,Age Groups,40 to 49,Total Population,"1,385",414,971,0.46,0.14,0.32,"2,998"
+Wasco,Age Groups,50 to 59,Total Population,"1,699",444,"1,255",0.51,0.13,0.38,"3,333"
+Wasco,Age Groups,60 to 64,Total Population,"1,083",277,806,0.53,0.14,0.39,"2,046"
+Wasco,Age Groups,65 to 69,Total Population,"1,203",115,"1,088",0.62,0.06,0.56,"1,946"
+Wasco,Age Groups,70 to 74,Total Population,"1,120",90,"1,030",0.69,0.06,0.64,"1,619"
+Wasco,Age Groups,75 to 79,Total Population,729,61,668,0.68,0.06,0.62,"1,078"
+Wasco,Age Groups,80+,Total Population,"1,109",70,"1,039",0.74,0.05,0.69,"1,504"
+Washington,Countywide,Countywide,Total Population,"303,319","92,727","210,592",0.49,0.15,0.34,"620,080"
+Washington,Age Groups,16 to 19,Total Population,"13,680","8,664","5,016",0.44,0.28,0.16,"31,298"
+Washington,Age Groups,20 to 29,Total Population,"39,981","17,280","22,701",0.47,0.20,0.26,"85,850"
+Washington,Age Groups,30 to 39,Total Population,"54,081","21,370","32,711",0.57,0.23,0.35,"94,159"
+Washington,Age Groups,40 to 49,Total Population,"53,357","18,486","34,871",0.62,0.22,0.41,"85,573"
+Washington,Age Groups,50 to 59,Total Population,"49,240","15,041","34,199",0.63,0.19,0.44,"77,892"
+Washington,Age Groups,60 to 64,Total Population,"23,618","6,152","17,466",0.67,0.18,0.50,"35,205"
+Washington,Age Groups,65 to 69,Total Population,"22,977","2,073","20,904",0.79,0.07,0.72,"29,127"
+Washington,Age Groups,70 to 74,Total Population,"18,886","1,498","17,388",0.83,0.07,0.77,"22,689"
+Washington,Age Groups,75 to 79,Total Population,"12,306",901,"11,405",0.83,0.06,0.77,"14,808"
+Washington,Age Groups,80+,Total Population,"15,193","1,262","13,931",0.76,0.06,0.69,"20,079"
+Wheeler,Countywide,Countywide,Total Population,589,40,549,0.41,0.03,0.38,"1,440"
+Wheeler,Age Groups,16 to 19,Total Population,4,,4,0.08,,0.08,51
+Wheeler,Age Groups,20 to 29,Total Population,20,3,17,0.24,0.04,0.20,85
+Wheeler,Age Groups,30 to 39,Total Population,44,5,39,0.28,0.03,0.25,158
+Wheeler,Age Groups,40 to 49,Total Population,37,3,34,0.31,0.03,0.29,119
+Wheeler,Age Groups,50 to 59,Total Population,84,8,76,0.42,0.04,0.38,202
+Wheeler,Age Groups,60 to 64,Total Population,72,6,66,0.59,0.05,0.54,123
+Wheeler,Age Groups,65 to 69,Total Population,100,3,97,0.71,0.02,0.69,141
+Wheeler,Age Groups,70 to 74,Total Population,87,8,79,0.79,0.07,0.71,111
+Wheeler,Age Groups,75 to 79,Total Population,56,1,55,0.49,0.01,0.48,115
+Wheeler,Age Groups,80+,Total Population,85,3,82,0.69,0.02,0.67,123
+Yamhill,Countywide,Countywide,Total Population,"44,194","10,890","33,304",0.41,0.10,0.31,"108,605"
+Yamhill,Age Groups,16 to 19,Total Population,"1,535",913,622,0.23,0.14,0.09,"6,672"
+Yamhill,Age Groups,20 to 29,Total Population,"4,598","1,750","2,848",0.33,0.13,0.21,"13,897"
+Yamhill,Age Groups,30 to 39,Total Population,"5,420","1,676","3,744",0.44,0.14,0.30,"12,454"
+Yamhill,Age Groups,40 to 49,Total Population,"6,292","1,871","4,421",0.45,0.14,0.32,"13,849"
+Yamhill,Age Groups,50 to 59,Total Population,"7,150","1,878","5,272",0.53,0.14,0.39,"13,403"
+Yamhill,Age Groups,60 to 64,Total Population,"4,188","1,061","3,127",0.58,0.15,0.44,"7,187"
+Yamhill,Age Groups,65 to 69,Total Population,"4,624",579,"4,045",0.71,0.09,0.62,"6,499"
+Yamhill,Age Groups,70 to 74,Total Population,"3,995",430,"3,565",0.80,0.09,0.72,"4,977"
+Yamhill,Age Groups,75 to 79,Total Population,"2,824",281,"2,543",0.80,0.08,0.72,"3,539"
+Yamhill,Age Groups,80+,Total Population,"3,568",451,"3,117",0.74,0.09,0.65,"4,815"
