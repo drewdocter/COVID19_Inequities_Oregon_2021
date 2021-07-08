@@ -1,0 +1,1274 @@
+﻿Date Stamp,Hospitalization Status,Onset Date,TodaysDate,Case Count
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/26/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Hospitalized,2/10/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Hospitalized,2/13/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/15/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/17/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Hospitalized,2/17/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/18/20,5/10/21,2
+Data current as of 12:01am 5/10/2021,Hospitalized,2/18/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/20/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Hospitalized,2/22/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Hospitalized,2/23/20,5/10/21,3
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/23/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Hospitalized,2/24/20,5/10/21,2
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/24/20,5/10/21,2
+Data current as of 12:01am 5/10/2021,Hospitalized,2/25/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/26/20,5/10/21,3
+Data current as of 12:01am 5/10/2021,Hospitalized,2/27/20,5/10/21,2
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/27/20,5/10/21,2
+Data current as of 12:01am 5/10/2021,Hospitalized,2/28/20,5/10/21,2
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/28/20,5/10/21,3
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/29/20,5/10/21,3
+Data current as of 12:01am 5/10/2021,Hospitalized,2/29/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/1/20,5/10/21,3
+Data current as of 12:01am 5/10/2021,Hospitalized,3/1/20,5/10/21,2
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/2/20,5/10/21,7
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/3/20,5/10/21,9
+Data current as of 12:01am 5/10/2021,Hospitalized,3/3/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Hospitalized,3/4/20,5/10/21,3
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/4/20,5/10/21,12
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/5/20,5/10/21,7
+Data current as of 12:01am 5/10/2021,Hospitalized,3/5/20,5/10/21,3
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/6/20,5/10/21,11
+Data current as of 12:01am 5/10/2021,Hospitalized,3/6/20,5/10/21,7
+Data current as of 12:01am 5/10/2021,Hospitalized,3/7/20,5/10/21,8
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/7/20,5/10/21,9
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/8/20,5/10/21,16
+Data current as of 12:01am 5/10/2021,Hospitalized,3/8/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Hospitalized,3/9/20,5/10/21,11
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/9/20,5/10/21,21
+Data current as of 12:01am 5/10/2021,Hospitalized,3/10/20,5/10/21,10
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/10/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/11/20,5/10/21,24
+Data current as of 12:01am 5/10/2021,Hospitalized,3/11/20,5/10/21,7
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/12/20,5/10/21,18
+Data current as of 12:01am 5/10/2021,Hospitalized,3/12/20,5/10/21,8
+Data current as of 12:01am 5/10/2021,Hospitalized,3/13/20,5/10/21,12
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/13/20,5/10/21,32
+Data current as of 12:01am 5/10/2021,Hospitalized,3/14/20,5/10/21,8
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/14/20,5/10/21,38
+Data current as of 12:01am 5/10/2021,Hospitalized,3/15/20,5/10/21,6
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/15/20,5/10/21,50
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/16/20,5/10/21,44
+Data current as of 12:01am 5/10/2021,Hospitalized,3/16/20,5/10/21,13
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/17/20,5/10/21,48
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/17/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Hospitalized,3/17/20,5/10/21,16
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/18/20,5/10/21,38
+Data current as of 12:01am 5/10/2021,Hospitalized,3/18/20,5/10/21,23
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/19/20,5/10/21,40
+Data current as of 12:01am 5/10/2021,Hospitalized,3/19/20,5/10/21,13
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/20/20,5/10/21,59
+Data current as of 12:01am 5/10/2021,Hospitalized,3/20/20,5/10/21,27
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/21/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/21/20,5/10/21,44
+Data current as of 12:01am 5/10/2021,Hospitalized,3/21/20,5/10/21,12
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/22/20,5/10/21,36
+Data current as of 12:01am 5/10/2021,Hospitalized,3/22/20,5/10/21,21
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/23/20,5/10/21,54
+Data current as of 12:01am 5/10/2021,Hospitalized,3/23/20,5/10/21,26
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/24/20,5/10/21,48
+Data current as of 12:01am 5/10/2021,Hospitalized,3/24/20,5/10/21,23
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/25/20,5/10/21,45
+Data current as of 12:01am 5/10/2021,Hospitalized,3/25/20,5/10/21,17
+Data current as of 12:01am 5/10/2021,Hospitalized,3/26/20,5/10/21,9
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/26/20,5/10/21,55
+Data current as of 12:01am 5/10/2021,Hospitalized,3/27/20,5/10/21,12
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/27/20,5/10/21,44
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/28/20,5/10/21,3
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/28/20,5/10/21,47
+Data current as of 12:01am 5/10/2021,Hospitalized,3/28/20,5/10/21,14
+Data current as of 12:01am 5/10/2021,Hospitalized,3/29/20,5/10/21,12
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/29/20,5/10/21,38
+Data current as of 12:01am 5/10/2021,Hospitalized,3/30/20,5/10/21,9
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/30/20,5/10/21,63
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/31/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Hospitalized,3/31/20,5/10/21,16
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/31/20,5/10/21,49
+Data current as of 12:01am 5/10/2021,Hospitalized,4/1/20,5/10/21,26
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/1/20,5/10/21,58
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/1/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Hospitalized,4/2/20,5/10/21,10
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/2/20,5/10/21,44
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/3/20,5/10/21,43
+Data current as of 12:01am 5/10/2021,Hospitalized,4/3/20,5/10/21,20
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/3/20,5/10/21,2
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/4/20,5/10/21,36
+Data current as of 12:01am 5/10/2021,Hospitalized,4/4/20,5/10/21,11
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/5/20,5/10/21,38
+Data current as of 12:01am 5/10/2021,Hospitalized,4/5/20,5/10/21,11
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/6/20,5/10/21,49
+Data current as of 12:01am 5/10/2021,Hospitalized,4/6/20,5/10/21,6
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/7/20,5/10/21,37
+Data current as of 12:01am 5/10/2021,Hospitalized,4/7/20,5/10/21,13
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/8/20,5/10/21,39
+Data current as of 12:01am 5/10/2021,Hospitalized,4/8/20,5/10/21,11
+Data current as of 12:01am 5/10/2021,Hospitalized,4/9/20,5/10/21,12
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/9/20,5/10/21,33
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/10/20,5/10/21,46
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/10/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Hospitalized,4/10/20,5/10/21,13
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/11/20,5/10/21,23
+Data current as of 12:01am 5/10/2021,Hospitalized,4/11/20,5/10/21,8
+Data current as of 12:01am 5/10/2021,Hospitalized,4/12/20,5/10/21,9
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/12/20,5/10/21,28
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/13/20,5/10/21,39
+Data current as of 12:01am 5/10/2021,Hospitalized,4/13/20,5/10/21,10
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/14/20,5/10/21,2
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/14/20,5/10/21,39
+Data current as of 12:01am 5/10/2021,Hospitalized,4/14/20,5/10/21,8
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/15/20,5/10/21,46
+Data current as of 12:01am 5/10/2021,Hospitalized,4/15/20,5/10/21,16
+Data current as of 12:01am 5/10/2021,Hospitalized,4/16/20,5/10/21,8
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/16/20,5/10/21,37
+Data current as of 12:01am 5/10/2021,Hospitalized,4/17/20,5/10/21,10
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/17/20,5/10/21,39
+Data current as of 12:01am 5/10/2021,Hospitalized,4/18/20,5/10/21,5
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/18/20,5/10/21,2
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/18/20,5/10/21,57
+Data current as of 12:01am 5/10/2021,Hospitalized,4/19/20,5/10/21,12
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/19/20,5/10/21,40
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/19/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Hospitalized,4/20/20,5/10/21,10
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/20/20,5/10/21,53
+Data current as of 12:01am 5/10/2021,Hospitalized,4/21/20,5/10/21,2
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/21/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/21/20,5/10/21,39
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/22/20,5/10/21,52
+Data current as of 12:01am 5/10/2021,Hospitalized,4/22/20,5/10/21,5
+Data current as of 12:01am 5/10/2021,Hospitalized,4/23/20,5/10/21,6
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/23/20,5/10/21,45
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/24/20,5/10/21,43
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/24/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Hospitalized,4/24/20,5/10/21,9
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/25/20,5/10/21,52
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/25/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Hospitalized,4/25/20,5/10/21,4
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/26/20,5/10/21,49
+Data current as of 12:01am 5/10/2021,Hospitalized,4/26/20,5/10/21,6
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/27/20,5/10/21,3
+Data current as of 12:01am 5/10/2021,Hospitalized,4/27/20,5/10/21,14
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/27/20,5/10/21,48
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/28/20,5/10/21,43
+Data current as of 12:01am 5/10/2021,Hospitalized,4/28/20,5/10/21,5
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/29/20,5/10/21,4
+Data current as of 12:01am 5/10/2021,Hospitalized,4/29/20,5/10/21,8
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/29/20,5/10/21,60
+Data current as of 12:01am 5/10/2021,Hospitalized,4/30/20,5/10/21,13
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/30/20,5/10/21,45
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/1/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/1/20,5/10/21,50
+Data current as of 12:01am 5/10/2021,Hospitalized,5/1/20,5/10/21,6
+Data current as of 12:01am 5/10/2021,Hospitalized,5/2/20,5/10/21,6
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/2/20,5/10/21,2
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/2/20,5/10/21,48
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/3/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Hospitalized,5/3/20,5/10/21,6
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/3/20,5/10/21,60
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/4/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Hospitalized,5/4/20,5/10/21,3
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/4/20,5/10/21,64
+Data current as of 12:01am 5/10/2021,Hospitalized,5/5/20,5/10/21,2
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/5/20,5/10/21,6
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/5/20,5/10/21,46
+Data current as of 12:01am 5/10/2021,Hospitalized,5/6/20,5/10/21,6
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/6/20,5/10/21,59
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/6/20,5/10/21,2
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/7/20,5/10/21,43
+Data current as of 12:01am 5/10/2021,Hospitalized,5/7/20,5/10/21,5
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/7/20,5/10/21,2
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/8/20,5/10/21,58
+Data current as of 12:01am 5/10/2021,Hospitalized,5/8/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Hospitalized,5/9/20,5/10/21,7
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/9/20,5/10/21,53
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/10/20,5/10/21,36
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/10/20,5/10/21,2
+Data current as of 12:01am 5/10/2021,Hospitalized,5/10/20,5/10/21,12
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/11/20,5/10/21,46
+Data current as of 12:01am 5/10/2021,Hospitalized,5/11/20,5/10/21,10
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/11/20,5/10/21,2
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/12/20,5/10/21,52
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/12/20,5/10/21,2
+Data current as of 12:01am 5/10/2021,Hospitalized,5/12/20,5/10/21,4
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/13/20,5/10/21,52
+Data current as of 12:01am 5/10/2021,Hospitalized,5/13/20,5/10/21,6
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/14/20,5/10/21,51
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/14/20,5/10/21,2
+Data current as of 12:01am 5/10/2021,Hospitalized,5/14/20,5/10/21,3
+Data current as of 12:01am 5/10/2021,Hospitalized,5/15/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/15/20,5/10/21,28
+Data current as of 12:01am 5/10/2021,Hospitalized,5/16/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/16/20,5/10/21,2
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/16/20,5/10/21,36
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/17/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/17/20,5/10/21,30
+Data current as of 12:01am 5/10/2021,Hospitalized,5/17/20,5/10/21,3
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/18/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Hospitalized,5/18/20,5/10/21,7
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/18/20,5/10/21,45
+Data current as of 12:01am 5/10/2021,Hospitalized,5/19/20,5/10/21,6
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/19/20,5/10/21,3
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/19/20,5/10/21,32
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/20/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Hospitalized,5/20/20,5/10/21,7
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/20/20,5/10/21,28
+Data current as of 12:01am 5/10/2021,Hospitalized,5/21/20,5/10/21,7
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/21/20,5/10/21,29
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/21/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Hospitalized,5/22/20,5/10/21,5
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/22/20,5/10/21,32
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/22/20,5/10/21,3
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/23/20,5/10/21,46
+Data current as of 12:01am 5/10/2021,Hospitalized,5/23/20,5/10/21,3
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/23/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/24/20,5/10/21,26
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/24/20,5/10/21,7
+Data current as of 12:01am 5/10/2021,Hospitalized,5/24/20,5/10/21,8
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/25/20,5/10/21,53
+Data current as of 12:01am 5/10/2021,Hospitalized,5/25/20,5/10/21,4
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/25/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/26/20,5/10/21,41
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/26/20,5/10/21,1
+Data current as of 12:01am 5/10/2021,Hospitalized,5/26/20,5/10/21,6
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/27/20,5/10/21,59
+Data current as of 12:01am 5/10/2021,Hospitalized,5/27/20,5/10/21,6
+Data current as of 12:01am 5/10/2021,Hospitalized,5/28/20,5/10/21,6
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/28/20,5/10/21,45
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/28/20,5/10/21,6
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/29/20,5/10/21,50
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/29/20,5/10/21,3
+Data current as of 12:01am 5/10/2021,Hospitalized,5/29/20,5/10/21,9
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/30/20,5/10/21,65
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/30/20,5/10/21,6
+Data current as of 12:01am 5/10/2021,Hospitalized,5/30/20,5/10/21,6
+Data current as of 12:01am 5/10/2021,Hospitalized,5/31/20,5/10/21,3
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/31/20,5/10/21,82
+Data current as of 12:01am 5/10/2021,Hospitalized,6/1/20,5/10/21,4
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/1/20,5/10/21,9
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/1/20,5/10/21,80
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/2/20,5/10/21,8
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/2/20,5/10/21,89
+Data current as of 12:01am 5/10/2021,Hospitalized,6/2/20,5/10/21,6
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/3/20,5/10/21,26
+Data current as of 12:01am 5/10/2021,Hospitalized,6/3/20,5/10/21,9
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/3/20,5/10/21,134
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/4/20,5/10/21,4
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/4/20,5/10/21,72
+Data current as of 12:01am 5/10/2021,Hospitalized,6/4/20,5/10/21,11
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/5/20,5/10/21,7
+Data current as of 12:01am 5/10/2021,Hospitalized,6/5/20,5/10/21,8
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/5/20,5/10/21,108
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/6/20,5/10/21,10
+Data current as of 12:01am 5/10/2021,Hospitalized,6/6/20,5/10/21,7
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/6/20,5/10/21,124
+Data current as of 12:01am 5/10/2021,Hospitalized,6/7/20,5/10/21,13
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/7/20,5/10/21,8
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/7/20,5/10/21,101
+Data current as of 12:01am 5/10/2021,Hospitalized,6/8/20,5/10/21,18
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/8/20,5/10/21,171
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/8/20,5/10/21,13
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/9/20,5/10/21,147
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/9/20,5/10/21,9
+Data current as of 12:01am 5/10/2021,Hospitalized,6/9/20,5/10/21,5
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/10/20,5/10/21,208
+Data current as of 12:01am 5/10/2021,Hospitalized,6/10/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/10/20,5/10/21,14
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/11/20,5/10/21,169
+Data current as of 12:01am 5/10/2021,Hospitalized,6/11/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/11/20,5/10/21,7
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/12/20,5/10/21,7
+Data current as of 12:01am 5/10/2021,Hospitalized,6/12/20,5/10/21,14
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/12/20,5/10/21,132
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/13/20,5/10/21,172
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/13/20,5/10/21,13
+Data current as of 12:01am 5/10/2021,Hospitalized,6/13/20,5/10/21,10
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/14/20,5/10/21,149
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/14/20,5/10/21,19
+Data current as of 12:01am 5/10/2021,Hospitalized,6/14/20,5/10/21,7
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/15/20,5/10/21,187
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/15/20,5/10/21,21
+Data current as of 12:01am 5/10/2021,Hospitalized,6/15/20,5/10/21,12
+Data current as of 12:01am 5/10/2021,Hospitalized,6/16/20,5/10/21,9
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/16/20,5/10/21,19
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/16/20,5/10/21,192
+Data current as of 12:01am 5/10/2021,Hospitalized,6/17/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/17/20,5/10/21,163
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/17/20,5/10/21,16
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/18/20,5/10/21,16
+Data current as of 12:01am 5/10/2021,Hospitalized,6/18/20,5/10/21,20
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/18/20,5/10/21,142
+Data current as of 12:01am 5/10/2021,Hospitalized,6/19/20,5/10/21,10
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/19/20,5/10/21,134
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/19/20,5/10/21,7
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/20/20,5/10/21,22
+Data current as of 12:01am 5/10/2021,Hospitalized,6/20/20,5/10/21,19
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/20/20,5/10/21,192
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/21/20,5/10/21,27
+Data current as of 12:01am 5/10/2021,Hospitalized,6/21/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/21/20,5/10/21,181
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/22/20,5/10/21,26
+Data current as of 12:01am 5/10/2021,Hospitalized,6/22/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/22/20,5/10/21,259
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/23/20,5/10/21,18
+Data current as of 12:01am 5/10/2021,Hospitalized,6/23/20,5/10/21,18
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/23/20,5/10/21,218
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/24/20,5/10/21,232
+Data current as of 12:01am 5/10/2021,Hospitalized,6/24/20,5/10/21,23
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/24/20,5/10/21,31
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/25/20,5/10/21,208
+Data current as of 12:01am 5/10/2021,Hospitalized,6/25/20,5/10/21,18
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/25/20,5/10/21,16
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/26/20,5/10/21,233
+Data current as of 12:01am 5/10/2021,Hospitalized,6/26/20,5/10/21,19
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/26/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/27/20,5/10/21,224
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/27/20,5/10/21,27
+Data current as of 12:01am 5/10/2021,Hospitalized,6/27/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/28/20,5/10/21,221
+Data current as of 12:01am 5/10/2021,Hospitalized,6/28/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/28/20,5/10/21,30
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/29/20,5/10/21,28
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/29/20,5/10/21,297
+Data current as of 12:01am 5/10/2021,Hospitalized,6/29/20,5/10/21,12
+Data current as of 12:01am 5/10/2021,Not Hospitalized,6/30/20,5/10/21,253
+Data current as of 12:01am 5/10/2021,Hospitalized,6/30/20,5/10/21,18
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,6/30/20,5/10/21,36
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/1/20,5/10/21,301
+Data current as of 12:01am 5/10/2021,Hospitalized,7/1/20,5/10/21,17
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/1/20,5/10/21,23
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/2/20,5/10/21,9
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/2/20,5/10/21,219
+Data current as of 12:01am 5/10/2021,Hospitalized,7/2/20,5/10/21,10
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/3/20,5/10/21,230
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/3/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Hospitalized,7/3/20,5/10/21,18
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/4/20,5/10/21,34
+Data current as of 12:01am 5/10/2021,Hospitalized,7/4/20,5/10/21,13
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/4/20,5/10/21,246
+Data current as of 12:01am 5/10/2021,Hospitalized,7/5/20,5/10/21,22
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/5/20,5/10/21,263
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/5/20,5/10/21,34
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/6/20,5/10/21,40
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/6/20,5/10/21,337
+Data current as of 12:01am 5/10/2021,Hospitalized,7/6/20,5/10/21,28
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/7/20,5/10/21,44
+Data current as of 12:01am 5/10/2021,Hospitalized,7/7/20,5/10/21,32
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/7/20,5/10/21,385
+Data current as of 12:01am 5/10/2021,Hospitalized,7/8/20,5/10/21,22
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/8/20,5/10/21,52
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/8/20,5/10/21,302
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/9/20,5/10/21,27
+Data current as of 12:01am 5/10/2021,Hospitalized,7/9/20,5/10/21,10
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/9/20,5/10/21,247
+Data current as of 12:01am 5/10/2021,Hospitalized,7/10/20,5/10/21,20
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/10/20,5/10/21,8
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/10/20,5/10/21,305
+Data current as of 12:01am 5/10/2021,Hospitalized,7/11/20,5/10/21,18
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/11/20,5/10/21,242
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/11/20,5/10/21,44
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/12/20,5/10/21,243
+Data current as of 12:01am 5/10/2021,Hospitalized,7/12/20,5/10/21,18
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/12/20,5/10/21,35
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/13/20,5/10/21,34
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/13/20,5/10/21,334
+Data current as of 12:01am 5/10/2021,Hospitalized,7/13/20,5/10/21,21
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/14/20,5/10/21,293
+Data current as of 12:01am 5/10/2021,Hospitalized,7/14/20,5/10/21,17
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/14/20,5/10/21,35
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/15/20,5/10/21,243
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/15/20,5/10/21,32
+Data current as of 12:01am 5/10/2021,Hospitalized,7/15/20,5/10/21,18
+Data current as of 12:01am 5/10/2021,Hospitalized,7/16/20,5/10/21,19
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/16/20,5/10/21,242
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/16/20,5/10/21,33
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/17/20,5/10/21,229
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/17/20,5/10/21,20
+Data current as of 12:01am 5/10/2021,Hospitalized,7/17/20,5/10/21,19
+Data current as of 12:01am 5/10/2021,Hospitalized,7/18/20,5/10/21,20
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/18/20,5/10/21,292
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/18/20,5/10/21,51
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/19/20,5/10/21,237
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/19/20,5/10/21,35
+Data current as of 12:01am 5/10/2021,Hospitalized,7/19/20,5/10/21,12
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/20/20,5/10/21,342
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/20/20,5/10/21,47
+Data current as of 12:01am 5/10/2021,Hospitalized,7/20/20,5/10/21,19
+Data current as of 12:01am 5/10/2021,Hospitalized,7/21/20,5/10/21,20
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/21/20,5/10/21,53
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/21/20,5/10/21,250
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/22/20,5/10/21,41
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/22/20,5/10/21,233
+Data current as of 12:01am 5/10/2021,Hospitalized,7/22/20,5/10/21,22
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/23/20,5/10/21,19
+Data current as of 12:01am 5/10/2021,Hospitalized,7/23/20,5/10/21,12
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/23/20,5/10/21,236
+Data current as of 12:01am 5/10/2021,Hospitalized,7/24/20,5/10/21,13
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/24/20,5/10/21,24
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/24/20,5/10/21,226
+Data current as of 12:01am 5/10/2021,Hospitalized,7/25/20,5/10/21,24
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/25/20,5/10/21,39
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/25/20,5/10/21,252
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/26/20,5/10/21,56
+Data current as of 12:01am 5/10/2021,Hospitalized,7/26/20,5/10/21,14
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/26/20,5/10/21,247
+Data current as of 12:01am 5/10/2021,Hospitalized,7/27/20,5/10/21,13
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/27/20,5/10/21,26
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/27/20,5/10/21,268
+Data current as of 12:01am 5/10/2021,Hospitalized,7/28/20,5/10/21,28
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/28/20,5/10/21,232
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/28/20,5/10/21,47
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/29/20,5/10/21,264
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/29/20,5/10/21,55
+Data current as of 12:01am 5/10/2021,Hospitalized,7/29/20,5/10/21,20
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/30/20,5/10/21,227
+Data current as of 12:01am 5/10/2021,Hospitalized,7/30/20,5/10/21,16
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/30/20,5/10/21,28
+Data current as of 12:01am 5/10/2021,Not Hospitalized,7/31/20,5/10/21,220
+Data current as of 12:01am 5/10/2021,Hospitalized,7/31/20,5/10/21,17
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,7/31/20,5/10/21,26
+Data current as of 12:01am 5/10/2021,Hospitalized,8/1/20,5/10/21,19
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/1/20,5/10/21,255
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/1/20,5/10/21,36
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/2/20,5/10/21,234
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/2/20,5/10/21,33
+Data current as of 12:01am 5/10/2021,Hospitalized,8/2/20,5/10/21,23
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/3/20,5/10/21,291
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/3/20,5/10/21,27
+Data current as of 12:01am 5/10/2021,Hospitalized,8/3/20,5/10/21,19
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/4/20,5/10/21,255
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/4/20,5/10/21,33
+Data current as of 12:01am 5/10/2021,Hospitalized,8/4/20,5/10/21,22
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/5/20,5/10/21,31
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/5/20,5/10/21,245
+Data current as of 12:01am 5/10/2021,Hospitalized,8/5/20,5/10/21,24
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/6/20,5/10/21,206
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/6/20,5/10/21,20
+Data current as of 12:01am 5/10/2021,Hospitalized,8/6/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/7/20,5/10/21,13
+Data current as of 12:01am 5/10/2021,Hospitalized,8/7/20,5/10/21,14
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/7/20,5/10/21,162
+Data current as of 12:01am 5/10/2021,Hospitalized,8/8/20,5/10/21,14
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/8/20,5/10/21,28
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/8/20,5/10/21,225
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/9/20,5/10/21,42
+Data current as of 12:01am 5/10/2021,Hospitalized,8/9/20,5/10/21,14
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/9/20,5/10/21,205
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/10/20,5/10/21,36
+Data current as of 12:01am 5/10/2021,Hospitalized,8/10/20,5/10/21,21
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/10/20,5/10/21,278
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/11/20,5/10/21,39
+Data current as of 12:01am 5/10/2021,Hospitalized,8/11/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/11/20,5/10/21,215
+Data current as of 12:01am 5/10/2021,Hospitalized,8/12/20,5/10/21,14
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/12/20,5/10/21,19
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/12/20,5/10/21,230
+Data current as of 12:01am 5/10/2021,Hospitalized,8/13/20,5/10/21,13
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/13/20,5/10/21,182
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/13/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Hospitalized,8/14/20,5/10/21,9
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/14/20,5/10/21,176
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/14/20,5/10/21,11
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/15/20,5/10/21,166
+Data current as of 12:01am 5/10/2021,Hospitalized,8/15/20,5/10/21,21
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/15/20,5/10/21,43
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/16/20,5/10/21,172
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/16/20,5/10/21,41
+Data current as of 12:01am 5/10/2021,Hospitalized,8/16/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/17/20,5/10/21,245
+Data current as of 12:01am 5/10/2021,Hospitalized,8/17/20,5/10/21,17
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/17/20,5/10/21,28
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/18/20,5/10/21,221
+Data current as of 12:01am 5/10/2021,Hospitalized,8/18/20,5/10/21,24
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/18/20,5/10/21,28
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/19/20,5/10/21,189
+Data current as of 12:01am 5/10/2021,Hospitalized,8/19/20,5/10/21,12
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/19/20,5/10/21,38
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/20/20,5/10/21,180
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/20/20,5/10/21,22
+Data current as of 12:01am 5/10/2021,Hospitalized,8/20/20,5/10/21,13
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/21/20,5/10/21,21
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/21/20,5/10/21,161
+Data current as of 12:01am 5/10/2021,Hospitalized,8/21/20,5/10/21,8
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/22/20,5/10/21,191
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/22/20,5/10/21,22
+Data current as of 12:01am 5/10/2021,Hospitalized,8/22/20,5/10/21,13
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/23/20,5/10/21,33
+Data current as of 12:01am 5/10/2021,Hospitalized,8/23/20,5/10/21,11
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/23/20,5/10/21,160
+Data current as of 12:01am 5/10/2021,Hospitalized,8/24/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/24/20,5/10/21,187
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/24/20,5/10/21,30
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/25/20,5/10/21,28
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/25/20,5/10/21,168
+Data current as of 12:01am 5/10/2021,Hospitalized,8/25/20,5/10/21,14
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/26/20,5/10/21,24
+Data current as of 12:01am 5/10/2021,Hospitalized,8/26/20,5/10/21,10
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/26/20,5/10/21,194
+Data current as of 12:01am 5/10/2021,Hospitalized,8/27/20,5/10/21,10
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/27/20,5/10/21,153
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/27/20,5/10/21,18
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/28/20,5/10/21,11
+Data current as of 12:01am 5/10/2021,Hospitalized,8/28/20,5/10/21,21
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/28/20,5/10/21,136
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/29/20,5/10/21,27
+Data current as of 12:01am 5/10/2021,Hospitalized,8/29/20,5/10/21,13
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/29/20,5/10/21,144
+Data current as of 12:01am 5/10/2021,Hospitalized,8/30/20,5/10/21,7
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/30/20,5/10/21,22
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/30/20,5/10/21,175
+Data current as of 12:01am 5/10/2021,Hospitalized,8/31/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Not Hospitalized,8/31/20,5/10/21,184
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,8/31/20,5/10/21,39
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/1/20,5/10/21,178
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/1/20,5/10/21,22
+Data current as of 12:01am 5/10/2021,Hospitalized,9/1/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/2/20,5/10/21,172
+Data current as of 12:01am 5/10/2021,Hospitalized,9/2/20,5/10/21,19
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/2/20,5/10/21,21
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/3/20,5/10/21,135
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/3/20,5/10/21,16
+Data current as of 12:01am 5/10/2021,Hospitalized,9/3/20,5/10/21,14
+Data current as of 12:01am 5/10/2021,Hospitalized,9/4/20,5/10/21,14
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/4/20,5/10/21,158
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/4/20,5/10/21,10
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/5/20,5/10/21,142
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/5/20,5/10/21,29
+Data current as of 12:01am 5/10/2021,Hospitalized,9/5/20,5/10/21,13
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/6/20,5/10/21,152
+Data current as of 12:01am 5/10/2021,Hospitalized,9/6/20,5/10/21,14
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/6/20,5/10/21,23
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/7/20,5/10/21,163
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/7/20,5/10/21,55
+Data current as of 12:01am 5/10/2021,Hospitalized,9/7/20,5/10/21,13
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/8/20,5/10/21,31
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/8/20,5/10/21,175
+Data current as of 12:01am 5/10/2021,Hospitalized,9/8/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Hospitalized,9/9/20,5/10/21,19
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/9/20,5/10/21,22
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/9/20,5/10/21,169
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/10/20,5/10/21,23
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/10/20,5/10/21,148
+Data current as of 12:01am 5/10/2021,Hospitalized,9/10/20,5/10/21,9
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/11/20,5/10/21,10
+Data current as of 12:01am 5/10/2021,Hospitalized,9/11/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/11/20,5/10/21,159
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/12/20,5/10/21,26
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/12/20,5/10/21,174
+Data current as of 12:01am 5/10/2021,Hospitalized,9/12/20,5/10/21,19
+Data current as of 12:01am 5/10/2021,Hospitalized,9/13/20,5/10/21,16
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/13/20,5/10/21,31
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/13/20,5/10/21,180
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/14/20,5/10/21,23
+Data current as of 12:01am 5/10/2021,Hospitalized,9/14/20,5/10/21,21
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/14/20,5/10/21,201
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/15/20,5/10/21,215
+Data current as of 12:01am 5/10/2021,Hospitalized,9/15/20,5/10/21,12
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/15/20,5/10/21,31
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/16/20,5/10/21,210
+Data current as of 12:01am 5/10/2021,Hospitalized,9/16/20,5/10/21,23
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/16/20,5/10/21,57
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/17/20,5/10/21,194
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/17/20,5/10/21,31
+Data current as of 12:01am 5/10/2021,Hospitalized,9/17/20,5/10/21,19
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/18/20,5/10/21,238
+Data current as of 12:01am 5/10/2021,Hospitalized,9/18/20,5/10/21,18
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/18/20,5/10/21,24
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/19/20,5/10/21,243
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/19/20,5/10/21,33
+Data current as of 12:01am 5/10/2021,Hospitalized,9/19/20,5/10/21,13
+Data current as of 12:01am 5/10/2021,Hospitalized,9/20/20,5/10/21,22
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/20/20,5/10/21,266
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/20/20,5/10/21,36
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/21/20,5/10/21,263
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/21/20,5/10/21,32
+Data current as of 12:01am 5/10/2021,Hospitalized,9/21/20,5/10/21,24
+Data current as of 12:01am 5/10/2021,Hospitalized,9/22/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/22/20,5/10/21,51
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/22/20,5/10/21,256
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/23/20,5/10/21,246
+Data current as of 12:01am 5/10/2021,Hospitalized,9/23/20,5/10/21,14
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/23/20,5/10/21,23
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/24/20,5/10/21,27
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/24/20,5/10/21,179
+Data current as of 12:01am 5/10/2021,Hospitalized,9/24/20,5/10/21,22
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/25/20,5/10/21,32
+Data current as of 12:01am 5/10/2021,Hospitalized,9/25/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/25/20,5/10/21,175
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/26/20,5/10/21,50
+Data current as of 12:01am 5/10/2021,Hospitalized,9/26/20,5/10/21,19
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/26/20,5/10/21,213
+Data current as of 12:01am 5/10/2021,Hospitalized,9/27/20,5/10/21,21
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/27/20,5/10/21,196
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/27/20,5/10/21,34
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/28/20,5/10/21,51
+Data current as of 12:01am 5/10/2021,Hospitalized,9/28/20,5/10/21,20
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/28/20,5/10/21,269
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/29/20,5/10/21,69
+Data current as of 12:01am 5/10/2021,Hospitalized,9/29/20,5/10/21,17
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/29/20,5/10/21,283
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,9/30/20,5/10/21,68
+Data current as of 12:01am 5/10/2021,Hospitalized,9/30/20,5/10/21,11
+Data current as of 12:01am 5/10/2021,Not Hospitalized,9/30/20,5/10/21,290
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/1/20,5/10/21,29
+Data current as of 12:01am 5/10/2021,Hospitalized,10/1/20,5/10/21,28
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/1/20,5/10/21,264
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/2/20,5/10/21,293
+Data current as of 12:01am 5/10/2021,Hospitalized,10/2/20,5/10/21,23
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/2/20,5/10/21,30
+Data current as of 12:01am 5/10/2021,Hospitalized,10/3/20,5/10/21,26
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/3/20,5/10/21,308
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/3/20,5/10/21,56
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/4/20,5/10/21,54
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/4/20,5/10/21,297
+Data current as of 12:01am 5/10/2021,Hospitalized,10/4/20,5/10/21,20
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/5/20,5/10/21,335
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/5/20,5/10/21,47
+Data current as of 12:01am 5/10/2021,Hospitalized,10/5/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/6/20,5/10/21,295
+Data current as of 12:01am 5/10/2021,Hospitalized,10/6/20,5/10/21,24
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/6/20,5/10/21,54
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/7/20,5/10/21,272
+Data current as of 12:01am 5/10/2021,Hospitalized,10/7/20,5/10/21,18
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/7/20,5/10/21,46
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/8/20,5/10/21,242
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/8/20,5/10/21,31
+Data current as of 12:01am 5/10/2021,Hospitalized,10/8/20,5/10/21,23
+Data current as of 12:01am 5/10/2021,Hospitalized,10/9/20,5/10/21,22
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/9/20,5/10/21,41
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/9/20,5/10/21,252
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/10/20,5/10/21,68
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/10/20,5/10/21,257
+Data current as of 12:01am 5/10/2021,Hospitalized,10/10/20,5/10/21,23
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/11/20,5/10/21,260
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/11/20,5/10/21,36
+Data current as of 12:01am 5/10/2021,Hospitalized,10/11/20,5/10/21,16
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/12/20,5/10/21,48
+Data current as of 12:01am 5/10/2021,Hospitalized,10/12/20,5/10/21,23
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/12/20,5/10/21,347
+Data current as of 12:01am 5/10/2021,Hospitalized,10/13/20,5/10/21,12
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/13/20,5/10/21,254
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/13/20,5/10/21,54
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/14/20,5/10/21,48
+Data current as of 12:01am 5/10/2021,Hospitalized,10/14/20,5/10/21,21
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/14/20,5/10/21,287
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/15/20,5/10/21,32
+Data current as of 12:01am 5/10/2021,Hospitalized,10/15/20,5/10/21,25
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/15/20,5/10/21,236
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/16/20,5/10/21,42
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/16/20,5/10/21,277
+Data current as of 12:01am 5/10/2021,Hospitalized,10/16/20,5/10/21,15
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/17/20,5/10/21,51
+Data current as of 12:01am 5/10/2021,Hospitalized,10/17/20,5/10/21,17
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/17/20,5/10/21,273
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/18/20,5/10/21,57
+Data current as of 12:01am 5/10/2021,Hospitalized,10/18/20,5/10/21,30
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/18/20,5/10/21,296
+Data current as of 12:01am 5/10/2021,Hospitalized,10/19/20,5/10/21,27
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/19/20,5/10/21,67
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/19/20,5/10/21,372
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/20/20,5/10/21,382
+Data current as of 12:01am 5/10/2021,Hospitalized,10/20/20,5/10/21,31
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/20/20,5/10/21,69
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/21/20,5/10/21,65
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/21/20,5/10/21,342
+Data current as of 12:01am 5/10/2021,Hospitalized,10/21/20,5/10/21,12
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/22/20,5/10/21,334
+Data current as of 12:01am 5/10/2021,Hospitalized,10/22/20,5/10/21,22
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/22/20,5/10/21,55
+Data current as of 12:01am 5/10/2021,Hospitalized,10/23/20,5/10/21,27
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/23/20,5/10/21,327
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/23/20,5/10/21,59
+Data current as of 12:01am 5/10/2021,Hospitalized,10/24/20,5/10/21,22
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/24/20,5/10/21,385
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/24/20,5/10/21,101
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/25/20,5/10/21,405
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/25/20,5/10/21,123
+Data current as of 12:01am 5/10/2021,Hospitalized,10/25/20,5/10/21,22
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/26/20,5/10/21,471
+Data current as of 12:01am 5/10/2021,Hospitalized,10/26/20,5/10/21,40
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/26/20,5/10/21,103
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/27/20,5/10/21,482
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/27/20,5/10/21,117
+Data current as of 12:01am 5/10/2021,Hospitalized,10/27/20,5/10/21,23
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/28/20,5/10/21,474
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/28/20,5/10/21,139
+Data current as of 12:01am 5/10/2021,Hospitalized,10/28/20,5/10/21,40
+Data current as of 12:01am 5/10/2021,Hospitalized,10/29/20,5/10/21,29
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/29/20,5/10/21,90
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/29/20,5/10/21,422
+Data current as of 12:01am 5/10/2021,Hospitalized,10/30/20,5/10/21,27
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/30/20,5/10/21,109
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/30/20,5/10/21,460
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,10/31/20,5/10/21,248
+Data current as of 12:01am 5/10/2021,Hospitalized,10/31/20,5/10/21,31
+Data current as of 12:01am 5/10/2021,Not Hospitalized,10/31/20,5/10/21,443
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/1/20,5/10/21,215
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/1/20,5/10/21,547
+Data current as of 12:01am 5/10/2021,Hospitalized,11/1/20,5/10/21,51
+Data current as of 12:01am 5/10/2021,Hospitalized,11/2/20,5/10/21,50
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/2/20,5/10/21,279
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/2/20,5/10/21,672
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/3/20,5/10/21,293
+Data current as of 12:01am 5/10/2021,Hospitalized,11/3/20,5/10/21,52
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/3/20,5/10/21,714
+Data current as of 12:01am 5/10/2021,Hospitalized,11/4/20,5/10/21,48
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/4/20,5/10/21,318
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/4/20,5/10/21,671
+Data current as of 12:01am 5/10/2021,Hospitalized,11/5/20,5/10/21,56
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/5/20,5/10/21,590
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/5/20,5/10/21,246
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/6/20,5/10/21,582
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/6/20,5/10/21,200
+Data current as of 12:01am 5/10/2021,Hospitalized,11/6/20,5/10/21,52
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/7/20,5/10/21,592
+Data current as of 12:01am 5/10/2021,Hospitalized,11/7/20,5/10/21,40
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/7/20,5/10/21,392
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/8/20,5/10/21,528
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/8/20,5/10/21,433
+Data current as of 12:01am 5/10/2021,Hospitalized,11/8/20,5/10/21,58
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/9/20,5/10/21,670
+Data current as of 12:01am 5/10/2021,Hospitalized,11/9/20,5/10/21,46
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/9/20,5/10/21,390
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/10/20,5/10/21,736
+Data current as of 12:01am 5/10/2021,Hospitalized,11/10/20,5/10/21,65
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/10/20,5/10/21,452
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/11/20,5/10/21,705
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/11/20,5/10/21,446
+Data current as of 12:01am 5/10/2021,Hospitalized,11/11/20,5/10/21,65
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/12/20,5/10/21,610
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/12/20,5/10/21,321
+Data current as of 12:01am 5/10/2021,Hospitalized,11/12/20,5/10/21,41
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/13/20,5/10/21,298
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/13/20,5/10/21,678
+Data current as of 12:01am 5/10/2021,Hospitalized,11/13/20,5/10/21,62
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/14/20,5/10/21,608
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/14/20,5/10/21,701
+Data current as of 12:01am 5/10/2021,Hospitalized,11/14/20,5/10/21,67
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/15/20,5/10/21,587
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/15/20,5/10/21,684
+Data current as of 12:01am 5/10/2021,Hospitalized,11/15/20,5/10/21,68
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/16/20,5/10/21,629
+Data current as of 12:01am 5/10/2021,Hospitalized,11/16/20,5/10/21,72
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/16/20,5/10/21,971
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/17/20,5/10/21,565
+Data current as of 12:01am 5/10/2021,Hospitalized,11/17/20,5/10/21,60
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/17/20,5/10/21,902
+Data current as of 12:01am 5/10/2021,Hospitalized,11/18/20,5/10/21,95
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/18/20,5/10/21,595
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/18/20,5/10/21,881
+Data current as of 12:01am 5/10/2021,Hospitalized,11/19/20,5/10/21,55
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/19/20,5/10/21,358
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/19/20,5/10/21,727
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/20/20,5/10/21,320
+Data current as of 12:01am 5/10/2021,Hospitalized,11/20/20,5/10/21,62
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/20/20,5/10/21,706
+Data current as of 12:01am 5/10/2021,Hospitalized,11/21/20,5/10/21,74
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/21/20,5/10/21,727
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/21/20,5/10/21,720
+Data current as of 12:01am 5/10/2021,Hospitalized,11/22/20,5/10/21,74
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/22/20,5/10/21,634
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/22/20,5/10/21,668
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/23/20,5/10/21,837
+Data current as of 12:01am 5/10/2021,Hospitalized,11/23/20,5/10/21,78
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/23/20,5/10/21,651
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/24/20,5/10/21,764
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/24/20,5/10/21,198
+Data current as of 12:01am 5/10/2021,Hospitalized,11/24/20,5/10/21,60
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/25/20,5/10/21,770
+Data current as of 12:01am 5/10/2021,Hospitalized,11/25/20,5/10/21,81
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/25/20,5/10/21,515
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/26/20,5/10/21,593
+Data current as of 12:01am 5/10/2021,Hospitalized,11/26/20,5/10/21,68
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/26/20,5/10/21,358
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/27/20,5/10/21,764
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/27/20,5/10/21,249
+Data current as of 12:01am 5/10/2021,Hospitalized,11/27/20,5/10/21,81
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/28/20,5/10/21,792
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/28/20,5/10/21,679
+Data current as of 12:01am 5/10/2021,Hospitalized,11/28/20,5/10/21,87
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/29/20,5/10/21,791
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/29/20,5/10/21,579
+Data current as of 12:01am 5/10/2021,Hospitalized,11/29/20,5/10/21,76
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,11/30/20,5/10/21,645
+Data current as of 12:01am 5/10/2021,Not Hospitalized,11/30/20,5/10/21,993
+Data current as of 12:01am 5/10/2021,Hospitalized,11/30/20,5/10/21,76
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/1/20,5/10/21,639
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/1/20,5/10/21,805
+Data current as of 12:01am 5/10/2021,Hospitalized,12/1/20,5/10/21,76
+Data current as of 12:01am 5/10/2021,Hospitalized,12/2/20,5/10/21,66
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/2/20,5/10/21,809
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/2/20,5/10/21,616
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/3/20,5/10/21,378
+Data current as of 12:01am 5/10/2021,Hospitalized,12/3/20,5/10/21,65
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/3/20,5/10/21,690
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/4/20,5/10/21,273
+Data current as of 12:01am 5/10/2021,Hospitalized,12/4/20,5/10/21,64
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/4/20,5/10/21,691
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/5/20,5/10/21,619
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/5/20,5/10/21,699
+Data current as of 12:01am 5/10/2021,Hospitalized,12/5/20,5/10/21,71
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/6/20,5/10/21,494
+Data current as of 12:01am 5/10/2021,Hospitalized,12/6/20,5/10/21,67
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/6/20,5/10/21,636
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/7/20,5/10/21,791
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/7/20,5/10/21,530
+Data current as of 12:01am 5/10/2021,Hospitalized,12/7/20,5/10/21,68
+Data current as of 12:01am 5/10/2021,Hospitalized,12/8/20,5/10/21,63
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/8/20,5/10/21,517
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/8/20,5/10/21,792
+Data current as of 12:01am 5/10/2021,Hospitalized,12/9/20,5/10/21,68
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/9/20,5/10/21,806
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/9/20,5/10/21,442
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/10/20,5/10/21,645
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/10/20,5/10/21,306
+Data current as of 12:01am 5/10/2021,Hospitalized,12/10/20,5/10/21,41
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/11/20,5/10/21,702
+Data current as of 12:01am 5/10/2021,Hospitalized,12/11/20,5/10/21,54
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/11/20,5/10/21,310
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/12/20,5/10/21,696
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/12/20,5/10/21,540
+Data current as of 12:01am 5/10/2021,Hospitalized,12/12/20,5/10/21,68
+Data current as of 12:01am 5/10/2021,Hospitalized,12/13/20,5/10/21,39
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/13/20,5/10/21,601
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/13/20,5/10/21,547
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/14/20,5/10/21,814
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/14/20,5/10/21,564
+Data current as of 12:01am 5/10/2021,Hospitalized,12/14/20,5/10/21,65
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/15/20,5/10/21,723
+Data current as of 12:01am 5/10/2021,Hospitalized,12/15/20,5/10/21,65
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/15/20,5/10/21,501
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/16/20,5/10/21,675
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/16/20,5/10/21,460
+Data current as of 12:01am 5/10/2021,Hospitalized,12/16/20,5/10/21,55
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/17/20,5/10/21,302
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/17/20,5/10/21,574
+Data current as of 12:01am 5/10/2021,Hospitalized,12/17/20,5/10/21,44
+Data current as of 12:01am 5/10/2021,Hospitalized,12/18/20,5/10/21,43
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/18/20,5/10/21,199
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/18/20,5/10/21,589
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/19/20,5/10/21,580
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/19/20,5/10/21,558
+Data current as of 12:01am 5/10/2021,Hospitalized,12/19/20,5/10/21,51
+Data current as of 12:01am 5/10/2021,Hospitalized,12/20/20,5/10/21,59
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/20/20,5/10/21,420
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/20/20,5/10/21,496
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/21/20,5/10/21,437
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/21/20,5/10/21,636
+Data current as of 12:01am 5/10/2021,Hospitalized,12/21/20,5/10/21,55
+Data current as of 12:01am 5/10/2021,Hospitalized,12/22/20,5/10/21,43
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/22/20,5/10/21,311
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/22/20,5/10/21,519
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/23/20,5/10/21,129
+Data current as of 12:01am 5/10/2021,Hospitalized,12/23/20,5/10/21,46
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/23/20,5/10/21,513
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/24/20,5/10/21,572
+Data current as of 12:01am 5/10/2021,Hospitalized,12/24/20,5/10/21,64
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/24/20,5/10/21,285
+Data current as of 12:01am 5/10/2021,Hospitalized,12/25/20,5/10/21,55
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/25/20,5/10/21,527
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/25/20,5/10/21,219
+Data current as of 12:01am 5/10/2021,Hospitalized,12/26/20,5/10/21,66
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/26/20,5/10/21,623
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/26/20,5/10/21,740
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/27/20,5/10/21,730
+Data current as of 12:01am 5/10/2021,Hospitalized,12/27/20,5/10/21,52
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/27/20,5/10/21,492
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/28/20,5/10/21,916
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/28/20,5/10/21,639
+Data current as of 12:01am 5/10/2021,Hospitalized,12/28/20,5/10/21,61
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/29/20,5/10/21,779
+Data current as of 12:01am 5/10/2021,Hospitalized,12/29/20,5/10/21,55
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/29/20,5/10/21,441
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/30/20,5/10/21,630
+Data current as of 12:01am 5/10/2021,Hospitalized,12/30/20,5/10/21,47
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/30/20,5/10/21,202
+Data current as of 12:01am 5/10/2021,Hospitalized,12/31/20,5/10/21,36
+Data current as of 12:01am 5/10/2021,Not Hospitalized,12/31/20,5/10/21,696
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,12/31/20,5/10/21,304
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/1/21,5/10/21,689
+Data current as of 12:01am 5/10/2021,Hospitalized,1/1/21,5/10/21,36
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/1/21,5/10/21,304
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/2/21,5/10/21,604
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/2/21,5/10/21,722
+Data current as of 12:01am 5/10/2021,Hospitalized,1/2/21,5/10/21,54
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/3/21,5/10/21,585
+Data current as of 12:01am 5/10/2021,Hospitalized,1/3/21,5/10/21,55
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/3/21,5/10/21,709
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/4/21,5/10/21,482
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/4/21,5/10/21,909
+Data current as of 12:01am 5/10/2021,Hospitalized,1/4/21,5/10/21,43
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/5/21,5/10/21,462
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/5/21,5/10/21,729
+Data current as of 12:01am 5/10/2021,Hospitalized,1/5/21,5/10/21,35
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/6/21,5/10/21,370
+Data current as of 12:01am 5/10/2021,Hospitalized,1/6/21,5/10/21,40
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/6/21,5/10/21,711
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/7/21,5/10/21,607
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/7/21,5/10/21,337
+Data current as of 12:01am 5/10/2021,Hospitalized,1/7/21,5/10/21,41
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/8/21,5/10/21,231
+Data current as of 12:01am 5/10/2021,Hospitalized,1/8/21,5/10/21,46
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/8/21,5/10/21,561
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/9/21,5/10/21,424
+Data current as of 12:01am 5/10/2021,Hospitalized,1/9/21,5/10/21,55
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/9/21,5/10/21,563
+Data current as of 12:01am 5/10/2021,Hospitalized,1/10/21,5/10/21,47
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/10/21,5/10/21,519
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/10/21,5/10/21,315
+Data current as of 12:01am 5/10/2021,Hospitalized,1/11/21,5/10/21,34
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/11/21,5/10/21,607
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/11/21,5/10/21,319
+Data current as of 12:01am 5/10/2021,Hospitalized,1/12/21,5/10/21,48
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/12/21,5/10/21,328
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/12/21,5/10/21,479
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/13/21,5/10/21,499
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/13/21,5/10/21,248
+Data current as of 12:01am 5/10/2021,Hospitalized,1/13/21,5/10/21,27
+Data current as of 12:01am 5/10/2021,Hospitalized,1/14/21,5/10/21,20
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/14/21,5/10/21,172
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/14/21,5/10/21,443
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/15/21,5/10/21,442
+Data current as of 12:01am 5/10/2021,Hospitalized,1/15/21,5/10/21,44
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/15/21,5/10/21,156
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/16/21,5/10/21,443
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/16/21,5/10/21,235
+Data current as of 12:01am 5/10/2021,Hospitalized,1/16/21,5/10/21,26
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/17/21,5/10/21,377
+Data current as of 12:01am 5/10/2021,Hospitalized,1/17/21,5/10/21,26
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/17/21,5/10/21,257
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/18/21,5/10/21,488
+Data current as of 12:01am 5/10/2021,Hospitalized,1/18/21,5/10/21,28
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/18/21,5/10/21,248
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/19/21,5/10/21,473
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/19/21,5/10/21,231
+Data current as of 12:01am 5/10/2021,Hospitalized,1/19/21,5/10/21,37
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/20/21,5/10/21,170
+Data current as of 12:01am 5/10/2021,Hospitalized,1/20/21,5/10/21,30
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/20/21,5/10/21,452
+Data current as of 12:01am 5/10/2021,Hospitalized,1/21/21,5/10/21,26
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/21/21,5/10/21,385
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/21/21,5/10/21,139
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/22/21,5/10/21,96
+Data current as of 12:01am 5/10/2021,Hospitalized,1/22/21,5/10/21,42
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/22/21,5/10/21,430
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/23/21,5/10/21,212
+Data current as of 12:01am 5/10/2021,Hospitalized,1/23/21,5/10/21,40
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/23/21,5/10/21,430
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/24/21,5/10/21,162
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/24/21,5/10/21,384
+Data current as of 12:01am 5/10/2021,Hospitalized,1/24/21,5/10/21,30
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/25/21,5/10/21,191
+Data current as of 12:01am 5/10/2021,Hospitalized,1/25/21,5/10/21,26
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/25/21,5/10/21,499
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/26/21,5/10/21,168
+Data current as of 12:01am 5/10/2021,Hospitalized,1/26/21,5/10/21,35
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/26/21,5/10/21,445
+Data current as of 12:01am 5/10/2021,Hospitalized,1/27/21,5/10/21,34
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/27/21,5/10/21,162
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/27/21,5/10/21,417
+Data current as of 12:01am 5/10/2021,Hospitalized,1/28/21,5/10/21,23
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/28/21,5/10/21,342
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/28/21,5/10/21,95
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/29/21,5/10/21,354
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/29/21,5/10/21,93
+Data current as of 12:01am 5/10/2021,Hospitalized,1/29/21,5/10/21,26
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/30/21,5/10/21,340
+Data current as of 12:01am 5/10/2021,Hospitalized,1/30/21,5/10/21,26
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/30/21,5/10/21,170
+Data current as of 12:01am 5/10/2021,Not Hospitalized,1/31/21,5/10/21,364
+Data current as of 12:01am 5/10/2021,Hospitalized,1/31/21,5/10/21,22
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,1/31/21,5/10/21,156
+Data current as of 12:01am 5/10/2021,Hospitalized,2/1/21,5/10/21,33
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/1/21,5/10/21,446
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/1/21,5/10/21,188
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/2/21,5/10/21,426
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/2/21,5/10/21,124
+Data current as of 12:01am 5/10/2021,Hospitalized,2/2/21,5/10/21,19
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/3/21,5/10/21,373
+Data current as of 12:01am 5/10/2021,Hospitalized,2/3/21,5/10/21,28
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/3/21,5/10/21,89
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/4/21,5/10/21,254
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/4/21,5/10/21,68
+Data current as of 12:01am 5/10/2021,Hospitalized,2/4/21,5/10/21,16
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/5/21,5/10/21,75
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/5/21,5/10/21,276
+Data current as of 12:01am 5/10/2021,Hospitalized,2/5/21,5/10/21,17
+Data current as of 12:01am 5/10/2021,Hospitalized,2/6/21,5/10/21,32
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/6/21,5/10/21,125
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/6/21,5/10/21,314
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/7/21,5/10/21,128
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/7/21,5/10/21,289
+Data current as of 12:01am 5/10/2021,Hospitalized,2/7/21,5/10/21,28
+Data current as of 12:01am 5/10/2021,Hospitalized,2/8/21,5/10/21,19
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/8/21,5/10/21,132
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/8/21,5/10/21,363
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/9/21,5/10/21,123
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/9/21,5/10/21,307
+Data current as of 12:01am 5/10/2021,Hospitalized,2/9/21,5/10/21,20
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/10/21,5/10/21,62
+Data current as of 12:01am 5/10/2021,Hospitalized,2/10/21,5/10/21,18
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/10/21,5/10/21,310
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/11/21,5/10/21,38
+Data current as of 12:01am 5/10/2021,Hospitalized,2/11/21,5/10/21,19
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/11/21,5/10/21,265
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/12/21,5/10/21,51
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/12/21,5/10/21,236
+Data current as of 12:01am 5/10/2021,Hospitalized,2/12/21,5/10/21,14
+Data current as of 12:01am 5/10/2021,Hospitalized,2/13/21,5/10/21,26
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/13/21,5/10/21,238
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/13/21,5/10/21,83
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/14/21,5/10/21,237
+Data current as of 12:01am 5/10/2021,Hospitalized,2/14/21,5/10/21,18
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/14/21,5/10/21,81
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/15/21,5/10/21,310
+Data current as of 12:01am 5/10/2021,Hospitalized,2/15/21,5/10/21,23
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/15/21,5/10/21,106
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/16/21,5/10/21,288
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/16/21,5/10/21,104
+Data current as of 12:01am 5/10/2021,Hospitalized,2/16/21,5/10/21,35
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/17/21,5/10/21,290
+Data current as of 12:01am 5/10/2021,Hospitalized,2/17/21,5/10/21,20
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/17/21,5/10/21,91
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/18/21,5/10/21,265
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/18/21,5/10/21,53
+Data current as of 12:01am 5/10/2021,Hospitalized,2/18/21,5/10/21,18
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/19/21,5/10/21,248
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/19/21,5/10/21,44
+Data current as of 12:01am 5/10/2021,Hospitalized,2/19/21,5/10/21,15
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/20/21,5/10/21,264
+Data current as of 12:01am 5/10/2021,Hospitalized,2/20/21,5/10/21,31
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/20/21,5/10/21,103
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/21/21,5/10/21,89
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/21/21,5/10/21,227
+Data current as of 12:01am 5/10/2021,Hospitalized,2/21/21,5/10/21,16
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/22/21,5/10/21,85
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/22/21,5/10/21,267
+Data current as of 12:01am 5/10/2021,Hospitalized,2/22/21,5/10/21,21
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/23/21,5/10/21,81
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/23/21,5/10/21,242
+Data current as of 12:01am 5/10/2021,Hospitalized,2/23/21,5/10/21,24
+Data current as of 12:01am 5/10/2021,Hospitalized,2/24/21,5/10/21,25
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/24/21,5/10/21,57
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/24/21,5/10/21,254
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/25/21,5/10/21,53
+Data current as of 12:01am 5/10/2021,Hospitalized,2/25/21,5/10/21,18
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/25/21,5/10/21,191
+Data current as of 12:01am 5/10/2021,Hospitalized,2/26/21,5/10/21,14
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/26/21,5/10/21,35
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/26/21,5/10/21,203
+Data current as of 12:01am 5/10/2021,Hospitalized,2/27/21,5/10/21,13
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/27/21,5/10/21,64
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/27/21,5/10/21,226
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,2/28/21,5/10/21,58
+Data current as of 12:01am 5/10/2021,Hospitalized,2/28/21,5/10/21,14
+Data current as of 12:01am 5/10/2021,Not Hospitalized,2/28/21,5/10/21,197
+Data current as of 12:01am 5/10/2021,Hospitalized,3/1/21,5/10/21,24
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/1/21,5/10/21,53
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/1/21,5/10/21,232
+Data current as of 12:01am 5/10/2021,Hospitalized,3/2/21,5/10/21,21
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/2/21,5/10/21,190
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/2/21,5/10/21,59
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/3/21,5/10/21,196
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/3/21,5/10/21,48
+Data current as of 12:01am 5/10/2021,Hospitalized,3/3/21,5/10/21,14
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/4/21,5/10/21,189
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/4/21,5/10/21,49
+Data current as of 12:01am 5/10/2021,Hospitalized,3/4/21,5/10/21,21
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/5/21,5/10/21,186
+Data current as of 12:01am 5/10/2021,Hospitalized,3/5/21,5/10/21,15
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/5/21,5/10/21,21
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/6/21,5/10/21,216
+Data current as of 12:01am 5/10/2021,Hospitalized,3/6/21,5/10/21,18
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/6/21,5/10/21,70
+Data current as of 12:01am 5/10/2021,Hospitalized,3/7/21,5/10/21,20
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/7/21,5/10/21,174
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/7/21,5/10/21,55
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/8/21,5/10/21,243
+Data current as of 12:01am 5/10/2021,Hospitalized,3/8/21,5/10/21,17
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/8/21,5/10/21,89
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/9/21,5/10/21,219
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/9/21,5/10/21,76
+Data current as of 12:01am 5/10/2021,Hospitalized,3/9/21,5/10/21,12
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/10/21,5/10/21,54
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/10/21,5/10/21,208
+Data current as of 12:01am 5/10/2021,Hospitalized,3/10/21,5/10/21,19
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/11/21,5/10/21,28
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/11/21,5/10/21,203
+Data current as of 12:01am 5/10/2021,Hospitalized,3/11/21,5/10/21,8
+Data current as of 12:01am 5/10/2021,Hospitalized,3/12/21,5/10/21,14
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/12/21,5/10/21,219
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/12/21,5/10/21,33
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/13/21,5/10/21,63
+Data current as of 12:01am 5/10/2021,Hospitalized,3/13/21,5/10/21,15
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/13/21,5/10/21,221
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/14/21,5/10/21,59
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/14/21,5/10/21,219
+Data current as of 12:01am 5/10/2021,Hospitalized,3/14/21,5/10/21,22
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/15/21,5/10/21,66
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/15/21,5/10/21,240
+Data current as of 12:01am 5/10/2021,Hospitalized,3/15/21,5/10/21,17
+Data current as of 12:01am 5/10/2021,Hospitalized,3/16/21,5/10/21,19
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/16/21,5/10/21,69
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/16/21,5/10/21,219
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/17/21,5/10/21,223
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/17/21,5/10/21,67
+Data current as of 12:01am 5/10/2021,Hospitalized,3/17/21,5/10/21,19
+Data current as of 12:01am 5/10/2021,Hospitalized,3/18/21,5/10/21,18
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/18/21,5/10/21,38
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/18/21,5/10/21,211
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/19/21,5/10/21,244
+Data current as of 12:01am 5/10/2021,Hospitalized,3/19/21,5/10/21,19
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/19/21,5/10/21,44
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/20/21,5/10/21,243
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/20/21,5/10/21,73
+Data current as of 12:01am 5/10/2021,Hospitalized,3/20/21,5/10/21,22
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/21/21,5/10/21,218
+Data current as of 12:01am 5/10/2021,Hospitalized,3/21/21,5/10/21,17
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/21/21,5/10/21,66
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/22/21,5/10/21,274
+Data current as of 12:01am 5/10/2021,Hospitalized,3/22/21,5/10/21,28
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/22/21,5/10/21,89
+Data current as of 12:01am 5/10/2021,Hospitalized,3/23/21,5/10/21,21
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/23/21,5/10/21,266
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/23/21,5/10/21,70
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/24/21,5/10/21,79
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/24/21,5/10/21,282
+Data current as of 12:01am 5/10/2021,Hospitalized,3/24/21,5/10/21,11
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/25/21,5/10/21,252
+Data current as of 12:01am 5/10/2021,Hospitalized,3/25/21,5/10/21,18
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/25/21,5/10/21,65
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/26/21,5/10/21,262
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/26/21,5/10/21,60
+Data current as of 12:01am 5/10/2021,Hospitalized,3/26/21,5/10/21,16
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/27/21,5/10/21,105
+Data current as of 12:01am 5/10/2021,Hospitalized,3/27/21,5/10/21,25
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/27/21,5/10/21,311
+Data current as of 12:01am 5/10/2021,Hospitalized,3/28/21,5/10/21,17
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/28/21,5/10/21,270
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/28/21,5/10/21,104
+Data current as of 12:01am 5/10/2021,Hospitalized,3/29/21,5/10/21,22
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/29/21,5/10/21,134
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/29/21,5/10/21,312
+Data current as of 12:01am 5/10/2021,Hospitalized,3/30/21,5/10/21,29
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/30/21,5/10/21,122
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/30/21,5/10/21,351
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,3/31/21,5/10/21,116
+Data current as of 12:01am 5/10/2021,Not Hospitalized,3/31/21,5/10/21,372
+Data current as of 12:01am 5/10/2021,Hospitalized,3/31/21,5/10/21,26
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/1/21,5/10/21,108
+Data current as of 12:01am 5/10/2021,Hospitalized,4/1/21,5/10/21,23
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/1/21,5/10/21,329
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/2/21,5/10/21,71
+Data current as of 12:01am 5/10/2021,Hospitalized,4/2/21,5/10/21,17
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/2/21,5/10/21,290
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/3/21,5/10/21,137
+Data current as of 12:01am 5/10/2021,Hospitalized,4/3/21,5/10/21,21
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/3/21,5/10/21,348
+Data current as of 12:01am 5/10/2021,Hospitalized,4/4/21,5/10/21,21
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/4/21,5/10/21,331
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/4/21,5/10/21,121
+Data current as of 12:01am 5/10/2021,Hospitalized,4/5/21,5/10/21,31
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/5/21,5/10/21,416
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/5/21,5/10/21,156
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/6/21,5/10/21,458
+Data current as of 12:01am 5/10/2021,Hospitalized,4/6/21,5/10/21,31
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/6/21,5/10/21,181
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/7/21,5/10/21,445
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/7/21,5/10/21,148
+Data current as of 12:01am 5/10/2021,Hospitalized,4/7/21,5/10/21,23
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/8/21,5/10/21,409
+Data current as of 12:01am 5/10/2021,Hospitalized,4/8/21,5/10/21,27
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/8/21,5/10/21,107
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/9/21,5/10/21,416
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/9/21,5/10/21,117
+Data current as of 12:01am 5/10/2021,Hospitalized,4/9/21,5/10/21,34
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/10/21,5/10/21,453
+Data current as of 12:01am 5/10/2021,Hospitalized,4/10/21,5/10/21,33
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/10/21,5/10/21,211
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/11/21,5/10/21,421
+Data current as of 12:01am 5/10/2021,Hospitalized,4/11/21,5/10/21,34
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/11/21,5/10/21,187
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/12/21,5/10/21,201
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/12/21,5/10/21,491
+Data current as of 12:01am 5/10/2021,Hospitalized,4/12/21,5/10/21,33
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/13/21,5/10/21,256
+Data current as of 12:01am 5/10/2021,Hospitalized,4/13/21,5/10/21,36
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/13/21,5/10/21,469
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/14/21,5/10/21,220
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/14/21,5/10/21,544
+Data current as of 12:01am 5/10/2021,Hospitalized,4/14/21,5/10/21,25
+Data current as of 12:01am 5/10/2021,Hospitalized,4/15/21,5/10/21,39
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/15/21,5/10/21,165
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/15/21,5/10/21,428
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/16/21,5/10/21,150
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/16/21,5/10/21,473
+Data current as of 12:01am 5/10/2021,Hospitalized,4/16/21,5/10/21,36
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/17/21,5/10/21,477
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/17/21,5/10/21,320
+Data current as of 12:01am 5/10/2021,Hospitalized,4/17/21,5/10/21,38
+Data current as of 12:01am 5/10/2021,Hospitalized,4/18/21,5/10/21,38
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/18/21,5/10/21,268
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/18/21,5/10/21,471
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/19/21,5/10/21,332
+Data current as of 12:01am 5/10/2021,Hospitalized,4/19/21,5/10/21,31
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/19/21,5/10/21,576
+Data current as of 12:01am 5/10/2021,Hospitalized,4/20/21,5/10/21,51
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/20/21,5/10/21,313
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/20/21,5/10/21,482
+Data current as of 12:01am 5/10/2021,Hospitalized,4/21/21,5/10/21,46
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/21/21,5/10/21,296
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/21/21,5/10/21,555
+Data current as of 12:01am 5/10/2021,Hospitalized,4/22/21,5/10/21,31
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/22/21,5/10/21,455
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/22/21,5/10/21,212
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/23/21,5/10/21,454
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/23/21,5/10/21,175
+Data current as of 12:01am 5/10/2021,Hospitalized,4/23/21,5/10/21,34
+Data current as of 12:01am 5/10/2021,Hospitalized,4/24/21,5/10/21,45
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/24/21,5/10/21,345
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/24/21,5/10/21,497
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/25/21,5/10/21,465
+Data current as of 12:01am 5/10/2021,Hospitalized,4/25/21,5/10/21,36
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/25/21,5/10/21,293
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/26/21,5/10/21,512
+Data current as of 12:01am 5/10/2021,Hospitalized,4/26/21,5/10/21,26
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/26/21,5/10/21,314
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/27/21,5/10/21,424
+Data current as of 12:01am 5/10/2021,Hospitalized,4/27/21,5/10/21,28
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/27/21,5/10/21,332
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/28/21,5/10/21,430
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/28/21,5/10/21,284
+Data current as of 12:01am 5/10/2021,Hospitalized,4/28/21,5/10/21,21
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/29/21,5/10/21,384
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/29/21,5/10/21,243
+Data current as of 12:01am 5/10/2021,Hospitalized,4/29/21,5/10/21,19
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,4/30/21,5/10/21,202
+Data current as of 12:01am 5/10/2021,Hospitalized,4/30/21,5/10/21,21
+Data current as of 12:01am 5/10/2021,Not Hospitalized,4/30/21,5/10/21,363
+Data current as of 12:01am 5/10/2021,Hospitalized,5/1/21,5/10/21,28
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/1/21,5/10/21,351
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/1/21,5/10/21,383
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/2/21,5/10/21,327
+Data current as of 12:01am 5/10/2021,Hospitalized,5/2/21,5/10/21,12
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/2/21,5/10/21,316
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/3/21,5/10/21,302
+Data current as of 12:01am 5/10/2021,Hospitalized,5/3/21,5/10/21,17
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/3/21,5/10/21,313
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/4/21,5/10/21,314
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/4/21,5/10/21,264
+Data current as of 12:01am 5/10/2021,Hospitalized,5/4/21,5/10/21,8
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/5/21,5/10/21,228
+Data current as of 12:01am 5/10/2021,Hospitalized,5/5/21,5/10/21,9
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/5/21,5/10/21,204
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/6/21,5/10/21,110
+Data current as of 12:01am 5/10/2021,Hospitalized,5/6/21,5/10/21,6
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/6/21,5/10/21,86
+Data current as of 12:01am 5/10/2021,Hospitalized,5/7/21,5/10/21,3
+Data current as of 12:01am 5/10/2021,Unknown Hospitalization Status,5/7/21,5/10/21,38
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/7/21,5/10/21,42
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/8/21,5/10/21,12
+Data current as of 12:01am 5/10/2021,Not Hospitalized,5/9/21,5/10/21,2
+Data current as of 12:01am 5/10/2022,Hospitalized,5/10/21,5/10/21,4
+Data current as of 12:01am 5/10/2023,Not Hospitalized,5/10/21,5/10/21,74
+Data current as of 12:01am 5/10/2024,Unknown Hospitalization Status,5/10/21,5/10/21,67
