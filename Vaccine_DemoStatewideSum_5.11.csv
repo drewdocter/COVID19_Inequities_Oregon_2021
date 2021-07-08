@@ -1,0 +1,22 @@
+﻿Demographic Type,Demographic Category,Population Denominator,Vaccinated,In Progress,Series Complete,% Population Vaccinated,% Population In Progress,% Population Series Complete,Population (PSU)  ,% of Vaccinated
+Statewide,Statewide,Total Population,"1,982,835","515,176","1,467,659",0.47,0.12,0.34,"4,268,055",
+Age Groups,16 to 19,Total Population,"70,170","41,924","28,246",0.34,0.2,0.14,"208,596",
+Age Groups,20 to 29,Total Population,"236,201","94,448","141,753",0.43,0.17,0.26,"550,693",
+Age Groups,30 to 39,Total Population,"302,036","102,015","200,021",0.51,0.17,0.34,"592,770",
+Age Groups,40 to 49,Total Population,"298,720","91,743","206,977",0.55,0.17,0.38,"539,557",
+Age Groups,50 to 59,Total Population,"303,468","85,734","217,734",0.57,0.16,0.41,"533,824",
+Age Groups,60 to 64,Total Population,"172,913","42,751","130,162",0.61,0.15,0.46,"282,412",
+Age Groups,65 to 69,Total Population,"191,186","19,631","171,555",0.72,0.07,0.65,"265,282",
+Age Groups,70 to 74,Total Population,"167,350","15,184","152,166",0.79,0.07,0.72,"210,721",
+Age Groups,75 to 79,Total Population,"109,414","9,676","99,738",0.78,0.07,0.71,"141,132",
+Age Groups,80+,Total Population,"131,377","12,070","119,307",0.74,0.07,0.67,"178,134",
+Race,AI/AN,Total Population,"35,760","9,795","25,965",0.27,0.08,0.2,"130,416",
+Race,Asian,Total Population,"102,349","35,482","66,867",0.43,0.15,0.28,"235,716",
+Race,Black,Total Population,"34,587","11,446","23,141",0.28,0.09,0.19,"124,309",
+Race,Hispanic,Total Population,"141,504","51,056","90,448",0.27,0.1,0.18,"517,713",
+Race,NH/PI,Total Population,"20,118","6,294","13,824",0.54,0.17,0.37,"37,038",
+Race,White,Total Population,"1,375,436","325,713","1,049,723",0.43,0.1,0.33,"3,219,722",
+Race,Other Race,Total Population,"97,519","24,588","72,931",,,,,4.90%
+Race,Unknown,Total Population,"175,562","50,802","124,760",,,,,8.90%
+Sex,Female,Total Population,"1,110,103",,,0.51,,,,
+Sex,Male,Total Population,"942,441",,,0.45,,,,
