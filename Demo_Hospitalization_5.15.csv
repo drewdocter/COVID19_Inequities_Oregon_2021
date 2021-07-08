@@ -1,0 +1,25 @@
+﻿Demographic,Category,Hospitalized,Not_Hospitalized,Unknown
+Sex Group,Female,"5,022","68,007","25,525"
+Sex Group,Male,"5,603","61,049","27,354"
+Sex Group,Refused/Unknown,61,962,940
+Age Group,9 and younger,112,"7,004","2,267"
+Age Group,10 to 19,189,"16,130","6,471"
+Age Group,20 to 29,653,"27,731","12,563"
+Age Group,30 to 39,810,"23,135","9,880"
+Age Group,40 to 49,"1,101","20,502","8,322"
+Age Group,50 to 59,"1,635","16,434","6,744"
+Age Group,60 to 69,"2,053","10,335","4,064"
+Age Group,70 to 79,"2,136","5,292","2,005"
+Age Group,80+,"1,975","3,349","1,256"
+Age Group,Refused/Unknown ,22,125,247
+Race,AI/AN,262,"2,461",628
+Race,Asian,356,"3,856","1,704"
+Race,Black,359,"3,521","1,188"
+Race,Multiracial,202,"2,686",474
+Race,Other,"1,814","33,070","5,741"
+Race,Pacific Is.,163,"1,273",183
+Race,Refused/Unknown ,964,"13,061","21,196"
+Race,White,"6,566","70,109","22,705"
+Ethnicity,Hispanic,"2,031","37,239","7,112"
+Ethnicity,Not Hispanic,"6,710","76,656","17,881"
+Ethnicity,Refused/Unknown ,"1,945","16,142","28,826"
